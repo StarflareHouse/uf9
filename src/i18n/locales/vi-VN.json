@@ -1,0 +1,619 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "games": "Trò chơi",
+    "about": "Về chúng tôi",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "shareholders": "cổ đông",
+    "platform": "Nền tảng",
+    "profitModel": "Mô hình lợi nhuận",
+    "dividends": "Cổ tức",
+    "growth": "tăng trưởng",
+    "stats": "Thống kê",
+    "download": "Tải xuống"
+  },
+  "shareholderHero": {
+    "badge": "Chương trình cổ phần cổ đông",
+    "title1": "Hợp tác với ",
+    "title2": "UF9",
+    "title3": "Chia sẻ lợi nhuận toàn cầu",
+    "subtitle": "Vượt xa các đại lý truyền thống — tham gia phân phối lợi nhuận thực sự của công ty với cổ tức tự động hàng ngày. Mô hình cổ đông thế hệ tiếp theo được thiết kế để tăng trưởng tài sản lâu dài.",
+    "cta": "Trở thành cổ đông",
+    "ctaSecondary": "Tìm hiểu thêm",
+    "tagline": "Tăng trưởng chung · Tiếp cận toàn cầu · Cùng nhau tương lai",
+    "dailyDividend": "Cổ tức hàng ngày",
+    "perDay": "mỗi ngày"
+  },
+  "profitModel": {
+    "heading": "Cổ đông",
+    "headingHighlight": "Mô hình lợi nhuận",
+    "subtitle": "Xem mô hình cổ đông UF9 về cơ bản vượt trội hơn các nền tảng dựa trên hoa hồng truyền thống như thế nào",
+    "legacyBadge": "Nền tảng kế thừa",
+    "legacyTitle": "Mô hình đại lý truyền thống",
+    "uf9Badge": "Cổ đông UF9",
+    "uf9Title": "Mô hình chia sẻ lợi nhuận",
+    "legacy": {
+      "commission": {
+        "title": "Chỉ dựa trên hoa hồng",
+        "desc": "Thu nhập chủ yếu từ hoa hồng khuyến mãi, chủ yếu dựa trên doanh số bán hàng."
+      },
+      "fixedRatio": {
+        "title": "Tỷ lệ hoa hồng cố định",
+        "desc": "Tỷ lệ hoa hồng cố định hạn chế tiềm năng tăng trưởng."
+      },
+      "noProfit": {
+        "title": "Không có sự tham gia lợi nhuận của công ty",
+        "desc": "Đại lý chỉ nhận được lợi nhuận khuyến mãi, không được chia lợi nhuận của công ty."
+      },
+      "incomeCap": {
+        "title": "Giới hạn thu nhập",
+        "desc": "Thu nhập phụ thuộc vào khả năng và nguồn lực thăng tiến cá nhân, với mức tăng trưởng hạn chế."
+      }
+    },
+    "uf9": {
+      "profitSharing": {
+        "title": "Chia sẻ lợi nhuận",
+        "desc": "Tham gia vào việc phân phối lợi nhuận chung của công ty, không chỉ là thu nhập khuyến mãi."
+      },
+      "contributionDividend": {
+        "title": "Cổ tức dựa trên đóng góp",
+        "desc": "Bạn càng đóng góp nhiều thì cổ tức của bạn càng cao, phản ánh sự công bằng và tăng trưởng."
+      },
+      "netProfit": {
+        "title": "Tham gia vào lợi nhuận ròng",
+        "desc": "Các cổ đông chia sẻ lợi nhuận ròng của công ty, phù hợp với lợi ích của công ty."
+      },
+      "growthExpansion": {
+        "title": "Tăng trưởng cùng với việc mở rộng công ty",
+        "desc": "Thu nhập tăng lên khi công ty mở rộng, không có giới hạn tỷ lệ cố định."
+      }
+    }
+  },
+  "dividendFormula": {
+    "heading": "Cổ tức hàng ngày",
+    "headingHighlight": "Tính toán",
+    "subtitle": "Minh bạch, tự động và thanh toán hàng ngày — không còn phải chờ đợi các khoản thanh toán hàng tháng",
+    "formula": "(Doanh thu cá nhân ` Doanh thu công ty) × Lợi nhuận ròng × Cổ phần = Cổ tức hàng ngày",
+    "personalTurnover": "Doanh thu cá nhân",
+    "companyTurnover": "Doanh thu công ty",
+    "ratio": "Tỷ lệ đóng góp",
+    "netProfit": "Lợi nhuận ròng của công ty",
+    "shareholding": "% cổ phần",
+    "dailyDividend": "Cổ tức hàng ngày",
+    "yourRatio": "Tỷ lệ của bạn",
+    "profitShare": "Chia sẻ lợi nhuận",
+    "projectedDaily": "Dự kiến hàng ngày",
+    "calculatorTitle": "Máy tính cổ tức",
+    "calculatorSubtitle": "Điều chỉnh thanh trượt để xem cổ tức hàng ngày dự kiến của bạn",
+    "disclaimer1": "Không có phí ẩn. Không có tính toán thủ công. Minh bạch 100% · Công bằng · Công bằng.",
+    "disclaimer2": "Bảng tính toán chỉ mang tính chất tham khảo. Tỷ lệ chia lợi nhuận cho cổ đông do cổ đông cấp trên quyết định."
+  },
+  "coreStrengths": {
+    "subtitle": "Chúng tôi không chỉ xây dựng nền tảng - Chúng tôi xây dựng một hệ thống tăng trưởng lợi nhuận hoàn chỉnh."
+  },
+  "growthEcosystem": {
+    "heading": "Ba chiều",
+    "headingHighlight": "Hệ sinh thái lợi nhuận",
+    "subtitle": "Nền tảng, người phát trực tuyến và đại lý làm việc cùng nhau trong mô hình chia sẻ lợi nhuận tổng hợp nhằm thúc đẩy tăng trưởng liên tục",
+    "participants": [
+      {
+        "title": "Nền tảng",
+        "desc": "Cơ sở hạ tầng công nghệ, trò chơi và thanh toán"
+      },
+      {
+        "title": "Người truyền phát & KOL",
+        "desc": "Lưu lượng truy cập trực tiếp, mức độ tương tác và chuyển đổi người chơi"
+      },
+      {
+        "title": "Đại lý",
+        "desc": "Xây dựng mạng lưới, giới thiệu và phát triển nhóm"
+      }
+    ],
+    "tagline": "Nền tảng + Streamer + Đại lý = Hệ sinh thái lợi nhuận ba chiều",
+    "chart": {
+      "threeWay": "3 CHIỀU",
+      "ecosystem": "HỆ SINH THÁI"
+    }
+  },
+  "retentionSystem": {
+    "heading": "Giữ chân người chơi",
+    "headingHighlight": "Hệ thống LTV",
+    "subtitle": "Tối đa hóa giá trị trọn đời của người chơi bằng tính năng phân khúc thông minh và theo dõi chuyên tâm — một cách tiếp cận có hệ thống để giữ chân lâu dài",
+    "legacyTitle": "Theo dõi kế thừa",
+    "uf9Title": "Hệ thống LTV UF9",
+    "legacy": {
+      "noSegmentation": "Không có phân khúc người chơi",
+      "noStrategy": "Không có chiến lược dài hạn",
+      "noRetention": "Không tập trung vào việc giữ chân"
+    },
+    "uf9": {
+      "smartSegmentation": "Phân khúc người chơi thông minh",
+      "oneOnOne": "Nhóm theo dõi 1-1",
+      "campaignSupport": "Hỗ trợ chiến dịch",
+      "userLoyalty": "Hoạt động cao hơn và mức độ trung thành của người dùng"
+    }
+  },
+  "closedLoopGrowth": {
+    "systemSummary": "Mua lại + Ưu đãi + Giữ chân + Kiếm tiền + Cổ tức = Hệ thống tăng trưởng vòng kín hoàn chỉnh"
+  },
+  "shareholderCTA": {
+    "heading": "Công ty",
+    "headingHighlight": "Tài liệu",
+    "subtitle": "Tải xuống và xem lại tài liệu dành cho cổ đông và nền tảng của chúng tôi",
+    "shareholderPdf": "Chương trình cổ đông",
+    "platformPdf": "Tổng quan về nền tảng",
+    "downloadPdf": "Tải xuống bản PDF",
+    "badges": [
+      "Được cấp phép quốc tế",
+      "Thanh toán hàng ngày",
+      "100% minh bạch"
+    ]
+  },
+  "hero": {
+    "badge": "Nền tảng giải trí cao cấp toàn cầu",
+    "title1": "Giành chiến thắng tại ",
+    "title2": "UF9",
+    "title3": "Trải nghiệm chơi game đỉnh cao",
+    "subtitle": "Nền tảng giải trí trực tuyến toàn cầu được hỗ trợ bởi công nghệ tiên tiến và hệ thống thanh toán thông minh. Hơn 1.000 trò chơi được tuyển chọn, hỗ trợ nhiều loại tiền tệ và rút tiền nhanh như chớp.",
+    "cta": "Tham gia ngay",
+    "ctaSecondary": "Tìm hiểu thêm",
+    "tagline": "Giải trí toàn cầu · Trò chơi cao cấp · Trải nghiệm đỉnh cao",
+    "verifiedBy": "Được xác minh bởi"
+  },
+  "stats": {
+    "heading": "Tại sao chọn",
+    "headingHighlight": "UF9",
+    "subtitle": "Hãy để những con số tự nói lên điều đó",
+    "providers": "Nhà cung cấp trò chơi",
+    "providersCount": "50+",
+    "providersGrowth": "Đối tác hàng đầu",
+    "games": "Trò chơi tuyển chọn",
+    "gamesCount": "1.000+",
+    "gamesGrowth": "Và đang phát triển",
+    "withdrawal": "Rút tiền chớp nhoáng",
+    "withdrawalCount": "3",
+    "withdrawalUnit": "phút",
+    "withdrawalGrowth": "Ngành nhanh nhất",
+    "payment": "Phương thức thanh toán",
+    "paymentCount": "150+",
+    "paymentGrowth": "Bảo hiểm toàn cầu",
+    "uptime": "Thời gian hoạt động ổn định",
+    "uptimeCount": "99,9%",
+    "uptimeGrowth": "Luôn bật 24/7"
+  },
+  "games": {
+    "heading": "phổ biến",
+    "headingHighlight": "Trò chơi",
+    "subtitle": "Hợp tác với các nhà cung cấp trò chơi hàng đầu thế giới để mang đến cho bạn trải nghiệm chơi game phong phú nhất",
+    "playNow": "Chơi ngay",
+    "gamesAvailable": "trò chơi có sẵn",
+    "highlights": {
+      "games": "Hơn 1000 trò chơi",
+      "gamesDesc": "Nhà cung cấp hàng đầu",
+      "fast": "Nhanh như chớp",
+      "fastDesc": "Độ trễ bằng không",
+      "secure": "An toàn & An toàn",
+      "secureDesc": "Bảo vệ quỹ",
+      "service": "Dịch vụ 24/7",
+      "serviceDesc": "Đồng hồ tròn"
+    },
+    "slots": {
+      "title": "Trò chơi slot",
+      "badge": "Phổ biến nhất",
+      "description": "Máy đánh bạc có RTP cao, máy đánh bạc cổ điển và tiêu đề máy đánh bạc sáng tạo - từ máy đánh bạc ba cuộn cổ điển đến máy đánh bạc video mới nhất, mang lại trải nghiệm chơi game phong phú nhất.",
+      "bullet1": "Hơn 500 trò chơi được tuyển chọn",
+      "bullet2": "Giải độc đắc lũy tiến lên tới hàng triệu",
+      "bullet3": "Tính năng quay và thưởng miễn phí",
+      "bullet4": "Tối ưu hóa hoàn hảo cho thiết bị di động",
+      "count": "500+"
+    },
+    "liveCasino": {
+      "title": "Sòng bạc trực tiếp",
+      "badge": "Truyền phát HD",
+      "description": "Baccarat trực tiếp, Roulette trực tiếp, Dragon Tiger, Sic Bo - tương tác với người chia bài chuyên nghiệp trong thời gian thực. Truyền phát video HD với nhiều góc nhìn.",
+      "bullet1": "Đội ngũ đại lý chuyên nghiệp",
+      "bullet2": "Baccarat / Roulette / Tài Xỉu",
+      "bullet3": "Truyền phát đa góc HD",
+      "bullet4": "Bàn dành riêng cho VIP",
+      "count": "50+"
+    },
+    "sportsbook": {
+      "title": "cá cược thể thao",
+      "badge": "Sự kiện toàn cầu",
+      "description": "Thị trường bóng đá, bóng rổ, Esports và thể thao toàn diện. Cập nhật tỷ lệ cược theo thời gian thực với các lựa chọn cá cược đa dạng.",
+      "bullet1": "Bóng đá / Bóng rổ / Quần vợt",
+      "bullet2": "Cá cược trực tiếp trong trận đấu",
+      "bullet3": "Tỷ lệ cược tốt nhất trong ngành",
+      "bullet4": "Phân tích dữ liệu phù hợp",
+      "count": "1000+"
+    },
+    "p2pPoker": {
+      "title": "Bài xì phé P2P",
+      "badge": "PVP thời gian thực",
+      "description": "Cạnh tranh PVP thời gian thực với các bàn đặt cược cao, chế độ giải đấu và lối chơi đa cấp. Hỗ trợ tính thanh khoản cao và giải quyết nhanh chóng.",
+      "bullet1": "Texas Hold'em / Blackjack",
+      "bullet2": "Bàn đặt cược cao",
+      "bullet3": "Chế độ giải đấu",
+      "bullet4": "Hệ thống thanh toán nhanh",
+      "count": "100+"
+    },
+    "esports": {
+      "title": "Nền tảng thể thao điện tử",
+      "badge": "Cược trực tiếp",
+      "description": "Các giải đấu thể thao điện tử hàng đầu với tính năng đồng bộ hóa dữ liệu theo thời gian thực và hình thức cá cược đa dạng.",
+      "bullet1": "Liên Minh Huyền Thoại / DOTA2",
+      "bullet2": "CS2 / Giá trị",
+      "bullet3": "Phát trực tiếp sự kiện",
+      "bullet4": "Phân tích dữ liệu chuyên nghiệp",
+      "count": "200+"
+    },
+    "highFrequency": {
+      "title": "Trò chơi tần suất cao",
+      "badge": "Chơi nhanh",
+      "description": "Trò chơi chơi nhanh, dễ bắt đầu với các tùy chọn lối chơi đa dạng. Vòng quay nhanh, nhiều định dạng, trải nghiệm nhẹ nhàng và hấp dẫn.",
+      "bullet1": "Cá cược cạnh tranh nhịp độ nhanh",
+      "bullet2": "Nhiều định dạng trò chơi",
+      "bullet3": "Lối chơi nhẹ nhàng và hấp dẫn",
+      "bullet4": "Giải quyết nhanh chóng",
+      "count": "150+"
+    },
+    "boardGames": {
+      "title": "Trò chơi cờ bàn & bài",
+      "badge": "Khu chiến lược",
+      "description": "Trận đấu thời gian thực nhiều người chơi với hệ thống xếp hạng và thể thức cạnh tranh. Bàn đặt cược cao, chế độ tiền vàng và điểm.",
+      "bullet1": "Mạt chược/Chiến đấu với chủ nhà",
+      "bullet2": "Hệ thống xếp hạng",
+      "bullet3": "Hình thức cạnh tranh",
+      "bullet4": "Trận đấu thời gian thực nhiều người chơi",
+      "count": "100+"
+    }
+  },
+  "partner": {
+    "heading": "Hợp tác với",
+    "headingHighlight": "UF9",
+    "subtitle": "Mô hình chia sẻ lợi nhuận cho cổ đông thế hệ tiếp theo — cùng phát triển với nền tảng và hưởng cổ tức liên tục",
+    "learnMore": "Trở thành đối tác",
+    "coreStrengths": {
+      "title": "Điểm mạnh của nền tảng cốt lõi",
+      "items": [
+        {
+          "title": "Thanh toán đa tiền tệ",
+          "desc": "Hỗ trợ các tài sản USD, MYR, THB, VNĐ, IDR và ​​tiền điện tử - thanh toán toàn cầu liền mạch"
+        },
+        {
+          "title": "Công cụ giải quyết thông minh",
+          "desc": "Thanh toán bù trừ tự động theo thời gian thực với việc phân phối lợi nhuận minh bạch cho tất cả các bên liên quan"
+        },
+        {
+          "title": "Báo cáo dữ liệu thời gian thực",
+          "desc": "Bảng điều khiển trực tiếp theo dõi doanh thu, lợi nhuận, hoạt động của người chơi và tỷ lệ chuyển đổi"
+        },
+        {
+          "title": "Kiến trúc có tính ổn định cao",
+          "desc": "Thời gian hoạt động 99,9%, cân bằng tải, bảo vệ DDoS — cơ sở hạ tầng cấp doanh nghiệp"
+        }
+      ]
+    },
+    "systems": {
+      "traffic": {
+        "badge": "Công cụ tăng trưởng",
+        "title": "Hệ thống tăng trưởng lưu lượng truy cập trực tiếp",
+        "desc": "Một hệ sinh thái hoàn chỉnh gồm những người phát trực tiếp, KOL và các kênh chuyển đổi dựa trên phần thưởng liên tục đưa người chơi mới vào nền tảng.",
+        "points": [
+          "Streamer chuyên nghiệp & mạng lưới KOL",
+          "Cơ chế khen thưởng theo thời gian thực cho người giới thiệu",
+          "Chia lợi nhuận 3 bên: nền tảng, đại lý, người truyền phát",
+          "Hệ thống theo dõi và phân bổ tự động",
+          "Tích hợp chia sẻ xã hội lan truyền"
+        ]
+      },
+      "followup": {
+        "badge": "Hệ thống lưu giữ",
+        "title": "Hệ thống theo dõi chuyên dụng",
+        "desc": "Phân khúc người chơi thông minh với người quản lý dịch vụ 1-1 chuyên dụng để tối đa hóa giá trị lâu dài của người chơi và giảm tỷ lệ rời bỏ.",
+        "points": [
+          "Phân khúc người chơi do AI điều khiển",
+          "Người quản lý dịch vụ tận tâm 1-1",
+          "Chiến dịch tương tác dựa trên vòng đời",
+          "Cảnh báo dự đoán và phòng ngừa rời bỏ",
+          "Chiến lược tối ưu hóa LTV của người chơi"
+        ]
+      },
+      "payment": {
+        "badge": "Chứng khoán quỹ",
+        "title": "Hệ thống thanh toán và quỹ toàn cầu",
+        "desc": "Thanh toán bù trừ tự động 24/7 với hỗ trợ đa sàn giao dịch. Gửi tiền nhanh, rút ​​tiền ngay lập tức và minh bạch tài chính đầy đủ.",
+        "points": [
+          "Gửi và rút tiền tự động 24/7",
+          "Thanh toán bù trừ tỷ giá đa hối đoái",
+          "Ngân hàng địa phương ở hơn 10 quốc gia",
+          "Hỗ trợ tiền điện tử & stablecoin",
+          "Giám sát dòng tiền theo thời gian thực"
+        ]
+      }
+    },
+    "comparison": {
+      "heading": "UF9 vs",
+      "headingHighlight": "Nền tảng kế thừa",
+      "subtitle": "Xem mô hình cổ đông UF9 hoạt động tốt hơn các nền tảng dựa trên đại lý truyền thống như thế nào",
+      "headers": [
+        "tính năng",
+        "Nền tảng kế thừa",
+        "Nền tảng UF9"
+      ],
+      "rows": [
+        [
+          "Mô hình lợi nhuận",
+          "Chỉ hoa hồng cố định",
+          "Cổ tức hàng ngày + chia sẻ lợi nhuận"
+        ],
+        [
+          "giải quyết",
+          "Thanh toán thủ công hàng tháng",
+          "Thanh toán bù trừ tự động theo thời gian thực"
+        ],
+        [
+          "Minh bạch",
+          "Không rõ ràng, phụ thuộc vào tác nhân",
+          "Bảng điều khiển dữ liệu thời gian thực đầy đủ"
+        ],
+        [
+          "Giữ chân người chơi",
+          "Không theo dõi một cách có hệ thống",
+          "Tỷ lệ giữ chân 1-1 do AI điều khiển"
+        ],
+        [
+          "Tăng trưởng lưu lượng truy cập",
+          "Mua lại tự tài trợ",
+          "Lưu lượng truy cập trực tiếp được hỗ trợ bởi nền tảng"
+        ],
+        [
+          "Chứng khoán quỹ",
+          "Đại lý nắm giữ tiền",
+          "Ký quỹ nền tảng + thanh toán ngay lập tức"
+        ]
+      ]
+    },
+    "dividend": {
+      "title": "Tính toán cổ tức hàng ngày",
+      "subtitle": "Minh bạch, tự động và thanh toán hàng ngày — không còn phải chờ đợi các khoản thanh toán hàng tháng",
+      "formula": "Cổ tức hàng ngày = Lợi nhuận ròng của nền tảng x Tỷ lệ cổ đông",
+      "details": [
+        {
+          "label": "Lợi nhuận ròng",
+          "desc": "Tổng doanh thu trừ tiền thắng của người chơi, tiền thưởng và chi phí hoạt động"
+        },
+        {
+          "label": "Tỷ lệ cổ đông",
+          "desc": "Dựa trên cấp độ đầu tư - cấp cao hơn kiếm được phần lợi nhuận hàng ngày lớn hơn"
+        },
+        {
+          "label": "Chu kỳ giải quyết",
+          "desc": "Tính toán và phân phối 24 giờ một lần, hoàn toàn tự động"
+        }
+      ],
+      "highlight": "Không có phí ẩn. Không có tính toán thủ công. 100% minh bạch."
+    },
+    "closedLoop": {
+      "title": "Vòng khép kín hoàn chỉnh",
+      "titleHighlight": "Hệ thống tăng trưởng",
+      "subtitle": "Bảy trụ cột tích hợp cùng nhau tạo ra động cơ lợi nhuận tự duy trì",
+      "centerCount": "7",
+      "centerLabel": "Trụ cột",
+      "pillars": [
+        {
+          "title": "Thu thập lưu lượng truy cập",
+          "desc": "Phát trực tiếp, mạng KOL, giới thiệu xã hội"
+        },
+        {
+          "title": "Chuyển đổi người chơi",
+          "desc": "Tối ưu hóa quá trình giới thiệu, khuyến khích tiền thưởng, thiết kế UX"
+        },
+        {
+          "title": "Giữ chân & Tương tác",
+          "desc": "Người quản lý 1-1, chương trình VIP, phần thưởng khách hàng thân thiết"
+        },
+        {
+          "title": "Kiếm tiền",
+          "desc": "Danh mục đầu tư nhiều trò chơi, bán kèm, bán thêm"
+        },
+        {
+          "title": "Thanh toán & thanh toán",
+          "desc": "Thanh toán bù trừ theo thời gian thực, cổ tức hàng ngày, phân phối tự động"
+        },
+        {
+          "title": "Dữ liệu & Phân tích",
+          "desc": "Thông tin chi tiết về người chơi, kênh chuyển đổi, bảng điều khiển lợi nhuận"
+        },
+        {
+          "title": "Tái đầu tư",
+          "desc": "Mở rộng quy mô theo hướng lợi nhuận, mở rộng thị trường, R&D sản phẩm"
+        }
+      ]
+    }
+  },
+  "globalPayment": {
+    "heading": "Toàn cầu",
+    "headingHighlight": "Mạng thanh toán",
+    "subtitle": "Cơ sở hạ tầng tài chính liền mạch trên khắp Đông Nam Á với sự hỗ trợ đa tiền tệ và tiền điện tử",
+    "paymentMethods": "Phương thức thanh toán"
+  },
+  "download": {
+    "badge": "Bắt đầu",
+    "title1": "Bắt đầu của bạn",
+    "title2": "Hành trình chiến thắng",
+    "subtitle": "Hãy tham gia UF9 và tận hưởng trải nghiệm chơi game trực tuyến đỉnh cao. Đăng ký miễn phí, kiếm tiền thưởng hào phóng cho lần gửi tiền đầu tiên của bạn và bắt đầu hành trình chơi trò chơi của bạn với sự phấn khích ngay từ ngày đầu tiên.",
+    "registerFree": "Đăng ký miễn phí",
+    "downloadApp": "Tải xuống ứng dụng",
+    "badges": [
+      "Đăng ký miễn phí",
+      "Gửi tiền tức thì",
+      "Hỗ trợ 24/7",
+      "SSL được mã hóa"
+    ],
+    "phoneTabs": [
+      "Máy đánh bạc",
+      "Trực tiếp",
+      "Thể thao",
+      "Thẻ"
+    ],
+    "playNow": "Chơi ngay",
+    "scanToDownload": "Quét để tải xuống",
+    "iosAndroid": "iOS & Android",
+    "downloadOn": "Tải xuống trên",
+    "appStore": "Cửa hàng ứng dụng",
+    "getItOn": "Bắt nó lên",
+    "googlePlay": "Google Play"
+  },
+  "faqPage": {
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Tìm câu trả lời cho những câu hỏi thường gặp về UF9",
+    "items": [
+      {
+        "q": "UF9 là gì?",
+        "a": "UF9 là nền tảng giải trí trực tuyến được cấp phép toàn cầu, cung cấp hơn 1.000 trò chơi được tuyển chọn bao gồm máy đánh bạc, sòng bạc trực tiếp, cá cược thể thao, poker P2P, thể thao điện tử, v.v. Chúng tôi cung cấp một môi trường chơi game an toàn, công bằng và minh bạch."
+      },
+      {
+        "q": "Làm cách nào để tạo tài khoản?",
+        "a": "Hãy truy cập trang đăng ký của chúng tôi, điền thông tin chi tiết, xác minh danh tính của bạn và tài khoản của bạn sẽ sẵn sàng trong vòng vài phút. Bạn phải ít nhất 18 tuổi để đăng ký."
+      },
+      {
+        "q": "Những loại tiền tệ nào được hỗ trợ?",
+        "a": "UF9 hỗ trợ nhiều loại tiền tệ bao gồm các loại tiền tệ fiat chính và tiền điện tử phổ biến. Kiểm tra nền tảng của chúng tôi để biết các phương thức thanh toán được hỗ trợ mới nhất."
+      },
+      {
+        "q": "Làm cách nào để gửi tiền?",
+        "a": "Đăng nhập vào tài khoản của bạn, điều hướng đến phần gửi tiền, chọn phương thức thanh toán ưa thích của bạn và làm theo hướng dẫn trên màn hình. Tiền gửi được xử lý ngay lập tức trong hầu hết các trường hợp."
+      },
+      {
+        "q": "Việc rút tiền mất bao lâu?",
+        "a": "Thời gian xử lý rút tiền khác nhau tùy theo phương pháp. Ví điện tử thường được xử lý trong vòng 24 giờ, trong khi chuyển khoản ngân hàng có thể mất 1–3 ngày làm việc."
+      },
+      {
+        "q": "Thông tin cá nhân của tôi có được bảo mật không?",
+        "a": "Đúng. UF9 sử dụng mã hóa SSL tiêu chuẩn ngành và tuân theo các giao thức bảo vệ dữ liệu nghiêm ngặt để bảo vệ thông tin cá nhân và tài chính của bạn."
+      },
+      {
+        "q": "Chương trình cổ đông hoạt động như thế nào?",
+        "a": "Chương trình cổ đông của chúng tôi cho phép các thành viên đủ điều kiện tham gia vào mô hình chia sẻ lợi nhuận của nền tảng. Tham khảo tài liệu dành cho cổ đông của chúng tôi để biết chi tiết đầy đủ về tính đủ điều kiện và cơ cấu cổ tức."
+      },
+      {
+        "q": "Tôi phải liên hệ với ai để được hỗ trợ?",
+        "a": "Bạn có thể liên hệ với nhóm dịch vụ khách hàng của chúng tôi 24/7 thông qua trò chuyện trực tiếp trên WhatsApp. Nhấp vào liên kết Trò chuyện trực tiếp ở chân trang để bắt đầu."
+      }
+    ]
+  },
+  "termsPage": {
+    "title": "Điều khoản dịch vụ",
+    "lastUpdated": "Cập nhật lần cuối: Tháng 3 năm 2026",
+    "sections": [
+      {
+        "title": "1. Chấp nhận các điều khoản",
+        "content": "Bằng việc truy cập hoặc sử dụng nền tảng UF9, bạn đồng ý bị ràng buộc bởi các Điều khoản dịch vụ này cũng như tất cả các luật và quy định hiện hành. Nếu bạn không đồng ý với bất kỳ điều khoản nào trong số này, bạn sẽ bị cấm sử dụng hoặc truy cập nền tảng này."
+      },
+      {
+        "title": "2. Đủ điều kiện",
+        "content": "Bạn phải ít nhất 18 tuổi (hoặc độ tuổi đánh bạc hợp pháp tại khu vực tài phán của bạn, tùy theo độ tuổi nào cao hơn) để sử dụng UF9. Bằng cách sử dụng dịch vụ của chúng tôi, bạn tuyên bố và đảm bảo rằng bạn đáp ứng yêu cầu về độ tuổi này và cờ bạc trực tuyến là hợp pháp trong phạm vi quyền hạn của bạn."
+      },
+      {
+        "title": "3. Đăng ký tài khoản",
+        "content": "Bạn có trách nhiệm duy trì tính bảo mật của thông tin đăng nhập tài khoản của bạn. Mỗi cá nhân chỉ được phép duy trì một tài khoản. UF9 có quyền đình chỉ hoặc chấm dứt các tài khoản vi phạm các điều khoản này."
+      },
+      {
+        "title": "4. Gửi tiền và rút tiền",
+        "content": "Tất cả các khoản tiền gửi và rút tiền phải tuân theo chính sách xử lý thanh toán của chúng tôi. UF9 có quyền yêu cầu xác minh danh tính trước khi xử lý việc rút tiền. Giới hạn tối thiểu và tối đa có thể được áp dụng tùy thuộc vào phương thức thanh toán của bạn."
+      },
+      {
+        "title": "5. Chơi đẹp",
+        "content": "UF9 cam kết thi đấu công bằng. Mọi hình thức gian lận, thông đồng hoặc khai thác lỗ hổng hệ thống đều bị nghiêm cấm và có thể dẫn đến việc đình chỉ tài khoản, tịch thu tiền và bị kiện tụng."
+      },
+      {
+        "title": "6. Sở hữu trí tuệ",
+        "content": "Tất cả nội dung, nhãn hiệu và tài liệu trên nền tảng UF9 đều là tài sản của UF9 hoặc người cấp phép của nó. Bạn không được sao chép, phân phối hoặc tạo tác phẩm phái sinh mà không có sự cho phép rõ ràng bằng văn bản."
+      },
+      {
+        "title": "7. Giới hạn trách nhiệm pháp lý",
+        "content": "UF9 sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt hoặc do hậu quả nào phát sinh từ việc sử dụng nền tảng của chúng tôi. Tổng trách nhiệm pháp lý của chúng tôi sẽ không vượt quá số tiền gửi vào tài khoản của bạn."
+      },
+      {
+        "title": "8. Sửa đổi",
+        "content": "UF9 có quyền sửa đổi các Điều khoản dịch vụ này bất cứ lúc nào. Việc tiếp tục sử dụng nền tảng sau khi thay đổi đồng nghĩa với việc chấp nhận các điều khoản đã sửa đổi. Người dùng sẽ được thông báo về những thay đổi quan trọng qua email hoặc thông báo nền tảng."
+      }
+    ]
+  },
+  "privacyPage": {
+    "title": "Chính sách bảo mật",
+    "lastUpdated": "Cập nhật lần cuối: Tháng 3 năm 2026",
+    "sections": [
+      {
+        "title": "1. Thông tin chúng tôi thu thập",
+        "content": "Chúng tôi thu thập thông tin bạn cung cấp trực tiếp, chẳng hạn như tên, email, ngày sinh và chi tiết thanh toán trong quá trình đăng ký. Chúng tôi cũng thu thập dữ liệu sử dụng, thông tin thiết bị và cookie để cải thiện dịch vụ của mình."
+      },
+      {
+        "title": "2. Cách chúng tôi sử dụng thông tin của bạn",
+        "content": "Thông tin của bạn được sử dụng để cung cấp và duy trì các dịch vụ của chúng tôi, xử lý giao dịch, xác minh danh tính của bạn, tuân thủ nghĩa vụ pháp lý, ngăn chặn gian lận và truyền đạt các cập nhật quan trọng về tài khoản của bạn."
+      },
+      {
+        "title": "3. Chia sẻ dữ liệu",
+        "content": "Chúng tôi không bán dữ liệu cá nhân của bạn. Chúng tôi có thể chia sẻ thông tin với các nhà cung cấp dịch vụ bên thứ ba đáng tin cậy (bộ xử lý thanh toán, dịch vụ xác minh danh tính) chỉ để vận hành nền tảng của chúng tôi. Chúng tôi cũng có thể tiết lộ dữ liệu khi pháp luật yêu cầu."
+      },
+      {
+        "title": "4. Bảo mật dữ liệu",
+        "content": "Chúng tôi triển khai các biện pháp bảo mật tiêu chuẩn ngành bao gồm mã hóa SSL, lưu trữ dữ liệu an toàn và kiểm tra bảo mật thường xuyên để bảo vệ thông tin cá nhân của bạn khỏi bị truy cập trái phép."
+      },
+      {
+        "title": "5. Lưu giữ dữ liệu",
+        "content": "Chúng tôi lưu giữ dữ liệu cá nhân của bạn miễn là tài khoản của bạn vẫn hoạt động hoặc khi cần thiết để cung cấp dịch vụ. Sau khi đóng tài khoản, dữ liệu có thể được lưu giữ theo yêu cầu của nghĩa vụ pháp lý."
+      },
+      {
+        "title": "6. Quyền của bạn",
+        "content": "Bạn có quyền truy cập, chỉnh sửa hoặc xóa dữ liệu cá nhân của mình. Bạn cũng có thể yêu cầu khả năng di chuyển dữ liệu hoặc phản đối các hoạt động xử lý nhất định. Hãy liên hệ với nhóm hỗ trợ của chúng tôi để thực hiện các quyền này."
+      },
+      {
+        "title": "7. Bánh quy",
+        "content": "Chúng tôi sử dụng cookie và các công nghệ tương tự để nâng cao trải nghiệm của bạn, phân tích cách sử dụng và cung cấp nội dung được cá nhân hóa. Bạn có thể quản lý tùy chọn cookie thông qua cài đặt trình duyệt của mình."
+      },
+      {
+        "title": "8. Liên hệ với chúng tôi",
+        "content": "Nếu có bất kỳ câu hỏi hoặc thắc mắc nào liên quan đến quyền riêng tư, vui lòng liên hệ với nhóm dịch vụ khách hàng của chúng tôi thông qua trò chuyện trực tiếp trên WhatsApp hoặc gửi email cho chúng tôi theo địa chỉ support@uf9.com."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Nền tảng giải trí trực tuyến toàn cầu cung cấp môi trường chơi game an toàn và công bằng nhất.",
+    "responsible": "Chơi game có trách nhiệm",
+    "age": "18+",
+    "quickLinks": "Liên kết nhanh",
+    "quickLinksItems": [
+      "cổ đông",
+      "Sảnh trò chơi",
+      "Chương trình VIP",
+      "Về chúng tôi"
+    ],
+    "gamesTitle": "Trò chơi",
+    "gamesItems": [
+      "Trò chơi slot",
+      "Sòng bạc trực tiếp",
+      "cá cược thể thao",
+      "Bài xì phé P2P",
+      "Thể thao điện tử",
+      "Trò chơi tần suất cao",
+      "Trò chơi cờ bàn & bài"
+    ],
+    "support": "Hỗ trợ",
+    "supportItems": [
+      "Câu hỏi thường gặp",
+      "Điều khoản dịch vụ",
+      "Chính sách bảo mật"
+    ],
+    "contactUs": "Liên hệ với chúng tôi",
+    "contactItems": [
+      "Trò chuyện trực tiếp"
+    ],
+    "copyright": "© 2026 UF9. Mọi quyền được bảo lưu.",
+    "licensed": "Được cấp phép quốc tế",
+    "ssl": "SSL được mã hóa",
+    "fairPlay": "Chứng nhận Fair Play"
+  }
+}

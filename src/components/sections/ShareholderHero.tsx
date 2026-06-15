@@ -8,6 +8,7 @@ const UF9Logo3D = lazy(() => import('@/components/ui/UF9Logo3D'))
 
 export function ShareholderHero() {
   const { t, locale } = useTranslation()
+  const useCjkHeadlineScale = locale.startsWith('zh') || locale.startsWith('ja') || locale.startsWith('ko')
 
   return (
     <section className="relative min-h-screen flex items-center pt-28 pb-20">
@@ -24,7 +25,7 @@ export function ShareholderHero() {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.1 }}
-              className={`${locale === 'zh-CN' ? 'text-5xl md:text-6xl lg:text-7xl' : 'text-4xl md:text-5xl lg:text-6xl'} font-bold font-display leading-tight`}
+              className={`${useCjkHeadlineScale ? 'text-5xl md:text-6xl lg:text-7xl' : 'text-4xl md:text-5xl lg:text-6xl'} font-bold font-display leading-tight`}
             >
               {t('shareholderHero.title1')}
               <img src="/uf9_text_color.png" alt="UF9" className="inline-block h-[1em] align-baseline" />

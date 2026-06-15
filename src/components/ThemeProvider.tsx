@@ -1,16 +1,5 @@
-import { createContext, useContext, useEffect, useState, type ReactNode } from 'react'
-
-type Theme = 'light' | 'dark' | 'system'
-type ResolvedTheme = 'light' | 'dark'
-
-interface ThemeContextValue {
-  theme: Theme
-  resolvedTheme: ResolvedTheme
-  setTheme: (theme: Theme) => void
-  toggleTheme: () => void
-}
-
-const ThemeContext = createContext<ThemeContextValue | undefined>(undefined)
+import { useEffect, useState, type ReactNode } from 'react'
+import { ThemeContext, type ResolvedTheme, type Theme } from '@/components/theme-context'
 
 const STORAGE_KEY = 'uf9-theme'
 
@@ -54,8 +43,3 @@ export function ThemeProvider({ children, defaultTheme = 'light' }: { children: 
   )
 }
 
-export function useTheme() {
-  const ctx = useContext(ThemeContext)
-  if (!ctx) throw new Error('useTheme must be used within ThemeProvider')
-  return ctx
-}

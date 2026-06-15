@@ -1,23 +1,16 @@
 import { useState, useEffect } from 'react'
 import { createPortal } from 'react-dom'
-import { Menu, X, TrendingUp, Gamepad2 } from 'lucide-react'
+import { Menu, X, TrendingUp } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { useLocation, useNavigate } from 'react-router-dom'
-import { shareholderNavLinks, platformNavLinks } from '@/constants/navigation'
+import { useNavigate } from 'react-router-dom'
+import { shareholderNavLinks } from '@/constants/navigation'
 import { AnimatedThemeToggler } from '@/components/ui/animated-theme-toggler'
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher'
 import { useTranslation } from '@/i18n'
-import { cn } from '@/lib/utils'
-
-const tabs = [
-  { key: 'shareholders', path: '/shareholders', labelKey: 'nav.shareholders', icon: TrendingUp },
-  { key: 'platform', path: '/platform', labelKey: 'nav.platform', icon: Gamepad2 },
-] as const
 
 export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false)
   const { t } = useTranslation()
-  const location = useLocation()
   const navigate = useNavigate()
 
   // Lock body scroll when sidebar is open
@@ -27,9 +20,6 @@ export function Navbar() {
       return () => { document.body.style.overflow = '' }
     }
   }, [mobileOpen])
-
-  const activeTab = location.pathname.startsWith('/platform') ? 'platform' : 'shareholders'
-  const contextNavLinks = activeTab === 'shareholders' ? shareholderNavLinks : platformNavLinks
 
   return (
     <>
@@ -47,39 +37,14 @@ export function Navbar() {
                 </motion.div>
               </a>
 
-              {/* Tab Switcher */}
-              <div className="flex items-center rounded-full bg-foreground/6 p-1 border border-border-subtle/50">
-                {tabs.map((tab) => {
-                  const Icon = tab.icon
-                  const isActive = activeTab === tab.key
-                  return (
-                    <button
-                      key={tab.key}
-                      onClick={() => navigate(tab.path)}
-                      className={cn(
-                        'relative flex items-center gap-1.5 px-4 py-2 rounded-full text-sm font-semibold transition-colors duration-200',
-                        isActive ? 'text-white' : 'text-muted-foreground hover:text-foreground'
-                      )}
-                    >
-                      {isActive && (
-                        <motion.div
-                          layoutId="tab-indicator"
-                          className="absolute inset-0 rounded-full bg-brand-red-500"
-                          transition={{ type: 'spring', stiffness: 400, damping: 30 }}
-                        />
-                      )}
-                      <span className="relative z-10 flex items-center gap-1.5">
-                        <Icon size={15} />
-                        {t(tab.labelKey)}
-                      </span>
-                    </button>
-                  )
-                })}
+              <div className="flex items-center gap-1.5 rounded-full bg-brand-red-500 px-4 py-2 text-sm font-semibold text-white">
+                <TrendingUp size={15} />
+                {t('nav.shareholders')}
               </div>
 
               {/* Context Nav Links */}
               <nav className="flex items-center gap-1">
-                {contextNavLinks.map((link) => (
+                {shareholderNavLinks.map((link) => (
                   <a
                     key={link.href}
                     href={link.href}
@@ -146,41 +111,17 @@ export function Navbar() {
                   </button>
                 </div>
 
-                {/* Tab Switcher */}
+                {/* Page Label */}
                 <div className="px-5 pt-5">
-                  <div className="flex items-center rounded-full bg-foreground/6 p-1 border border-border-subtle/50">
-                    {tabs.map((tab) => {
-                      const Icon = tab.icon
-                      const isActive = activeTab === tab.key
-                      return (
-                        <button
-                          key={tab.key}
-                          onClick={() => { navigate(tab.path); setMobileOpen(false) }}
-                          className={cn(
-                            'relative flex-1 flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-full text-sm font-semibold transition-colors',
-                            isActive ? 'text-white' : 'text-muted-foreground'
-                          )}
-                        >
-                          {isActive && (
-                            <motion.div
-                              layoutId="tab-indicator-mobile"
-                              className="absolute inset-0 rounded-full bg-brand-red-500"
-                              transition={{ type: 'spring', stiffness: 400, damping: 30 }}
-                            />
-                          )}
-                          <span className="relative z-10 flex items-center gap-1.5">
-                            <Icon size={14} />
-                            {t(tab.labelKey)}
-                          </span>
-                        </button>
-                      )
-                    })}
+                  <div className="flex items-center justify-center gap-1.5 rounded-full bg-brand-red-500 px-3 py-2.5 text-sm font-semibold text-white">
+                    <TrendingUp size={14} />
+                    {t('nav.shareholders')}
                   </div>
                 </div>
 
                 {/* Nav Links */}
                 <nav className="flex-1 px-5 py-4 space-y-1">
-                  {contextNavLinks.map((link) => (
+                  {shareholderNavLinks.map((link) => (
                     <a
                       key={link.href}
                       href={link.href}

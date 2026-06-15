@@ -1,13 +1,20 @@
-import { useRef, Suspense } from 'react'
+import { useEffect, useMemo, useRef, Suspense } from 'react'
 import { Canvas, useFrame, useLoader } from '@react-three/fiber'
 import { Float } from '@react-three/drei'
 import { TextureLoader, SRGBColorSpace } from 'three'
 import type { Group } from 'three'
 
 function LogoDisc() {
-  const texture = useLoader(TextureLoader, '/uf9.png')
-  texture.colorSpace = SRGBColorSpace
+  const sourceTexture = useLoader(TextureLoader, '/uf9.png')
+  const texture = useMemo(() => {
+    const nextTexture = sourceTexture.clone()
+    nextTexture.colorSpace = SRGBColorSpace
+    nextTexture.needsUpdate = true
+    return nextTexture
+  }, [sourceTexture])
   const groupRef = useRef<Group>(null)
+
+  useEffect(() => () => texture.dispose(), [texture])
 
   useFrame((_, delta) => {
     if (!groupRef.current) return

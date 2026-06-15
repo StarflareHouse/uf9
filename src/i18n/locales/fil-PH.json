@@ -1,0 +1,619 @@
+{
+  "nav": {
+    "home": "Bahay",
+    "games": "Mga laro",
+    "about": "Tungkol sa Amin",
+    "login": "Mag-login",
+    "register": "Magrehistro",
+    "shareholders": "Mga shareholder",
+    "platform": "Plataporma",
+    "profitModel": "Modelo ng Kita",
+    "dividends": "Dibidendo",
+    "growth": "Paglago",
+    "stats": "Mga istatistika",
+    "download": "I-download"
+  },
+  "shareholderHero": {
+    "badge": "Shareholder Equity Program",
+    "title1": "Kasosyo sa ",
+    "title2": "UF9",
+    "title3": "Magbahagi sa Global Profit",
+    "subtitle": "Higit pa sa mga tradisyunal na ahensya — lumahok sa tunay na pamamahagi ng kita ng kumpanya na may pang-araw-araw na awtomatikong mga dibidendo. Isang susunod na henerasyong modelo ng shareholder na idinisenyo para sa pangmatagalang paglago ng kayamanan.",
+    "cta": "Maging isang Shareholder",
+    "ctaSecondary": "Matuto pa",
+    "tagline": "Nakabahaging Paglago · Global Reach · Future Together",
+    "dailyDividend": "Araw-araw na Dibidendo",
+    "perDay": "bawat araw"
+  },
+  "profitModel": {
+    "heading": "Shareholder",
+    "headingHighlight": "Modelo ng Kita",
+    "subtitle": "Tingnan kung paano ang modelo ng shareholder ng UF9 sa panimula ay higit na nangunguna sa mga tradisyonal na platform na nakabatay sa komisyon",
+    "legacyBadge": "Legacy na Platform",
+    "legacyTitle": "Tradisyunal na Modelo ng Ahente",
+    "uf9Badge": "Mga Shareholder ng UF9",
+    "uf9Title": "Modelo ng Pagbabahagi ng Kita",
+    "legacy": {
+      "commission": {
+        "title": "Commission-Based Lamang",
+        "desc": "Pangunahing kita mula sa komisyon sa promosyon, na pangunahing nakabatay sa benta."
+      },
+      "fixedRatio": {
+        "title": "Fixed Commission Ratio",
+        "desc": "Nililimitahan ng naayos na ratio ng komisyon ang potensyal na paglago."
+      },
+      "noProfit": {
+        "title": "Walang Pakikilahok sa Kita ng Kumpanya",
+        "desc": "Ang mga ahente ay tumatanggap lamang ng mga pagbabalik ng promosyon, walang bahagi sa kita ng kumpanya."
+      },
+      "incomeCap": {
+        "title": "Kita Cap",
+        "desc": "Ang kita ay nakasalalay sa kakayahan at mapagkukunan ng personal na promosyon, na may limitadong paglago."
+      }
+    },
+    "uf9": {
+      "profitSharing": {
+        "title": "Pagbabahagi ng Kita",
+        "desc": "Makilahok sa pangkalahatang pamamahagi ng kita ng kumpanya, hindi lamang kita sa promosyon."
+      },
+      "contributionDividend": {
+        "title": "Contribution-Based Dividend",
+        "desc": "Kung mas marami kang kontribusyon, mas mataas ang iyong dibidendo, na nagpapakita ng pagiging patas at paglago."
+      },
+      "netProfit": {
+        "title": "Makilahok sa Net Profit",
+        "desc": "Ang mga shareholder ay nagbabahagi ng netong kita ng kumpanya, na nakahanay sa mga interes ng kumpanya."
+      },
+      "growthExpansion": {
+        "title": "Paglago sa Pagpapalawak ng Kumpanya",
+        "desc": "Lumalaki ang kita habang lumalawak ang kumpanya, walang fixed ratio na limitasyon."
+      }
+    }
+  },
+  "dividendFormula": {
+    "heading": "Araw-araw na Dibidendo",
+    "headingHighlight": "Pagkalkula",
+    "subtitle": "Transparent, awtomatiko, at naayos araw-araw — hindi na naghihintay para sa buwanang mga payout",
+    "formula": "(Personal na Turnover ÷ Company Turnover) × Net Profit × Shareholding = Daily Dividend",
+    "personalTurnover": "Personal na Turnover",
+    "companyTurnover": "Turnover ng Kumpanya",
+    "ratio": "Ratio ng Kontribusyon",
+    "netProfit": "Netong Kita ng Kumpanya",
+    "shareholding": "Shareholding %",
+    "dailyDividend": "Araw-araw na Dibidendo",
+    "yourRatio": "Ang iyong Ratio",
+    "profitShare": "Bahagi ng Kita",
+    "projectedDaily": "Inaasahang Araw-araw",
+    "calculatorTitle": "Dividend Calculator",
+    "calculatorSubtitle": "Ayusin ang mga slider upang makita ang iyong inaasahang pang-araw-araw na dibidendo",
+    "disclaimer1": "Walang nakatagong bayad. Walang manu-manong kalkulasyon. 100% Transparent · Patas · Makatarungan.",
+    "disclaimer2": "Ang talahanayan ng pagkalkula ay para sa mga layuning sanggunian lamang. Ang porsyento ng pagbabahagi ng tubo ng shareholder ay tinutukoy ng mas mataas na antas ng shareholder."
+  },
+  "coreStrengths": {
+    "subtitle": "Hindi lang kami gumagawa ng platform — Bumubuo kami ng kumpletong sistema ng paglago ng kita."
+  },
+  "growthEcosystem": {
+    "heading": "Tatlong-Daan",
+    "headingHighlight": "Ecosystem ng Kita",
+    "subtitle": "Ang platform, mga streamer, at mga ahente ay nagtutulungan sa isang synergistic na modelo ng pagbabahagi ng kita na nagtutulak ng patuloy na paglago",
+    "participants": [
+      {
+        "title": "Plataporma",
+        "desc": "Teknolohiya, laro, at imprastraktura ng paninirahan"
+      },
+      {
+        "title": "Mga streamer at KOL",
+        "desc": "Live na trapiko, pakikipag-ugnayan, at pagkuha ng manlalaro"
+      },
+      {
+        "title": "Mga ahente",
+        "desc": "Pagbuo ng network, mga referral, at paglago ng koponan"
+      }
+    ],
+    "tagline": "Platform + Streamer + Ahente = Three-Way Profit Ecosystem",
+    "chart": {
+      "threeWay": "3-WAY",
+      "ecosystem": "ECOSYSTEM"
+    }
+  },
+  "retentionSystem": {
+    "heading": "Pagpapanatili ng Manlalaro",
+    "headingHighlight": "LTV System",
+    "subtitle": "I-maximize ang panghabambuhay na halaga ng manlalaro gamit ang matalinong pagse-segment at nakatuong follow-up — isang sistematikong diskarte sa pangmatagalang pagpapanatili",
+    "legacyTitle": "Legacy na Follow-Up",
+    "uf9Title": "UF9 LTV System",
+    "legacy": {
+      "noSegmentation": "Walang Segmentation ng Manlalaro",
+      "noStrategy": "Walang Pangmatagalang Diskarte",
+      "noRetention": "Walang Pokus sa Pagpapanatili"
+    },
+    "uf9": {
+      "smartSegmentation": "Segmentation ng Smart Player",
+      "oneOnOne": "1-on-1 na Follow-Up Team",
+      "campaignSupport": "Suporta sa Kampanya",
+      "userLoyalty": "Mas Mataas na Aktibidad at Katapatan ng User"
+    }
+  },
+  "closedLoopGrowth": {
+    "systemSummary": "Pagkuha + Mga Insentibo + Pagpapanatili + Monetization + Dividends = Kumpletuhin ang Closed-Loop Growth System"
+  },
+  "shareholderCTA": {
+    "heading": "kumpanya",
+    "headingHighlight": "Mga dokumento",
+    "subtitle": "I-download at suriin ang aming shareholder at dokumentasyon ng platform",
+    "shareholderPdf": "Programa ng Shareholder",
+    "platformPdf": "Pangkalahatang-ideya ng Platform",
+    "downloadPdf": "Mag-download ng PDF",
+    "badges": [
+      "Internationally Licensed",
+      "Araw-araw na Settlement",
+      "100% Transparent"
+    ]
+  },
+  "hero": {
+    "badge": "Global Premium Entertainment Platform",
+    "title1": "Manalo sa ",
+    "title2": "UF9",
+    "title3": "Ang Ultimate Gaming Experience",
+    "subtitle": "Isang pandaigdigang online entertainment platform na pinapagana ng advanced na teknolohiya at intelligent settlement system. Mahigit sa 1,000 na-curate na laro, suporta sa multi-currency, at mabilis na pag-withdraw.",
+    "cta": "Sumali Ngayon",
+    "ctaSecondary": "Matuto pa",
+    "tagline": "Global Entertainment · Premium Gaming · Ultimate Experience",
+    "verifiedBy": "Na-verify ni"
+  },
+  "stats": {
+    "heading": "Bakit Pumili",
+    "headingHighlight": "UF9",
+    "subtitle": "Hayaang magsalita ang mga numero para sa kanilang sarili",
+    "providers": "Mga Tagabigay ng Laro",
+    "providersCount": "50+",
+    "providersGrowth": "Mga Nangungunang Kasosyo",
+    "games": "Mga Na-curate na Laro",
+    "gamesCount": "1,000+",
+    "gamesGrowth": "At Lumalago",
+    "withdrawal": "Mga Pag-withdraw ng Kidlat",
+    "withdrawalCount": "3",
+    "withdrawalUnit": "min",
+    "withdrawalGrowth": "Pinakamabilis na Industriya",
+    "payment": "Mga Paraan ng Pagbabayad",
+    "paymentCount": "150+",
+    "paymentGrowth": "Pandaigdigang Saklaw",
+    "uptime": "Matatag na Uptime",
+    "uptimeCount": "99.9%",
+    "uptimeGrowth": "24/7 Laging Naka-on"
+  },
+  "games": {
+    "heading": "Sikat",
+    "headingHighlight": "Mga laro",
+    "subtitle": "Pakikipagtulungan sa mga nangungunang provider ng laro sa mundo upang maihatid sa iyo ang pinakamayamang karanasan sa paglalaro",
+    "playNow": "Maglaro Ngayon",
+    "gamesAvailable": "magagamit ang mga laro",
+    "highlights": {
+      "games": "1000+ Laro",
+      "gamesDesc": "Mga Nangungunang Provider",
+      "fast": "Mabilis na Kidlat",
+      "fastDesc": "Zero Latency",
+      "secure": "Ligtas at Ligtas",
+      "secureDesc": "Proteksyon ng Pondo",
+      "service": "24/7 na Serbisyo",
+      "serviceDesc": "Round-the-Clock"
+    },
+    "slots": {
+      "title": "Mga Larong Slot",
+      "badge": "Pinakasikat",
+      "description": "Mataas na RTP slot, classic slot, at makabagong pamagat ng slot — mula sa classic na three-reel hanggang sa pinakabagong mga video slot, na naghahatid ng pinakamayamang karanasan sa paglalaro.",
+      "bullet1": "500+ na-curate na laro",
+      "bullet2": "Mga progresibong jackpot hanggang milyon-milyon",
+      "bullet3": "Mga tampok na libreng spin at bonus",
+      "bullet4": "Perpektong na-optimize para sa mobile",
+      "count": "500+"
+    },
+    "liveCasino": {
+      "title": "Live na Casino",
+      "badge": "HD Streaming",
+      "description": "Live Baccarat, Live Roulette, Dragon Tiger, Sic Bo — makipag-ugnayan sa mga propesyonal na dealer sa real time. HD video streaming na may multi-angle view.",
+      "bullet1": "Propesyonal na pangkat ng dealer",
+      "bullet2": "Baccarat / Roulette / Sic Bo",
+      "bullet3": "HD multi-angle streaming",
+      "bullet4": "VIP na eksklusibong mga mesa",
+      "count": "50+"
+    },
+    "sportsbook": {
+      "title": "Sportsbook",
+      "badge": "Mga Pandaigdigang Kaganapan",
+      "description": "Football, Basketbol, Esports at komprehensibong sports market. Mga update sa real-time na odds na may iba't ibang opsyon sa pagtaya.",
+      "bullet1": "Football / Basketbol / Tennis",
+      "bullet2": "Live in-play na pagtaya",
+      "bullet3": "Pinakamahusay na posibilidad sa industriya",
+      "bullet4": "Pagtutugma ng data analytics",
+      "count": "1000+"
+    },
+    "p2pPoker": {
+      "title": "P2P Poker",
+      "badge": "Real-time na PVP",
+      "description": "Real-time na kumpetisyon sa PVP na may mataas na stakes na mga talahanayan, tournament mode, at multi-level na gameplay. Sinusuportahan ang mataas na pagkatubig at mabilis na pag-aayos.",
+      "bullet1": "Texas Hold'em / Blackjack",
+      "bullet2": "Mga talahanayan ng mataas na pusta",
+      "bullet3": "Mode ng tournament",
+      "bullet4": "Mabilis na sistema ng pag-aayos",
+      "count": "100+"
+    },
+    "esports": {
+      "title": "Platform ng Esports",
+      "badge": "Live na Pagtaya",
+      "description": "Top-tier esports tournaments na may real-time na data synchronization at sari-saring mga format ng pagtaya.",
+      "bullet1": "League of Legends / DOTA2",
+      "bullet2": "CS2 / Valorant",
+      "bullet3": "Live na streaming ng kaganapan",
+      "bullet4": "Propesyonal na analytics ng data",
+      "count": "200+"
+    },
+    "highFrequency": {
+      "title": "Mga Larong High-Frequency",
+      "badge": "Mabilis na Play",
+      "description": "Mabilis na paglalaro ng mga laro na madaling magsimula sa magkakaibang mga opsyon sa gameplay. Mabilis na pag-ikot, maraming format, magaan at nakaka-engganyong karanasan.",
+      "bullet1": "Mabilis na mapagkumpitensyang pagtaya",
+      "bullet2": "Maramihang mga format ng laro",
+      "bullet3": "Magaan at nakakaengganyo na gameplay",
+      "bullet4": "Mabilis na pag-aayos",
+      "count": "150+"
+    },
+    "boardGames": {
+      "title": "Mga Board at Card Game",
+      "badge": "Strategy Zone",
+      "description": "Multiplayer real-time na mga tugma na may mga sistema ng pagraranggo at mapagkumpitensyang mga format. Mga high-stakes table, gold coin, at point mode.",
+      "bullet1": "Mahjong / Labanan ang Nagpapaupa",
+      "bullet2": "Sistema ng pagraranggo",
+      "bullet3": "Mga format na mapagkumpitensya",
+      "bullet4": "Multiplayer real-time na mga tugma",
+      "count": "100+"
+    }
+  },
+  "partner": {
+    "heading": "Kasosyo sa",
+    "headingHighlight": "UF9",
+    "subtitle": "Isang susunod na henerasyong modelo ng pagbabahagi ng tubo ng shareholder — lumago kasama ng platform at magtamasa ng tuluy-tuloy na mga dibidendo",
+    "learnMore": "Maging Kasosyo",
+    "coreStrengths": {
+      "title": "Mga Lakas ng Pangunahing Platform",
+      "items": [
+        {
+          "title": "Multi-Currency Settlement",
+          "desc": "Suporta para sa USD, MYR, THB, VND, IDR at mga crypto asset — walang putol na pandaigdigang settlement"
+        },
+        {
+          "title": "Intelligent Settlement Engine",
+          "desc": "Real-time na awtomatikong clearing na may malinaw na pamamahagi ng kita sa lahat ng stakeholder"
+        },
+        {
+          "title": "Real-Time na Mga Ulat sa Data",
+          "desc": "Sinusubaybayan ng mga live na dashboard ang turnover, tubo, aktibidad ng manlalaro, at mga rate ng conversion"
+        },
+        {
+          "title": "Arkitekturang Mataas na Katatagan",
+          "desc": "99.9% uptime, load balancing, proteksyon ng DDoS — enterprise-grade infrastructure"
+        }
+      ]
+    },
+    "systems": {
+      "traffic": {
+        "badge": "Makina ng Paglago",
+        "title": "Live na Sistema ng Paglago ng Trapiko",
+        "desc": "Isang kumpletong ecosystem ng mga live streamer, KOL, at reward-driven acquisition funnel na patuloy na nagpapakain ng mga bagong manlalaro sa platform.",
+        "points": [
+          "Propesyonal na streamer at KOL network",
+          "Real-time na mekanismo ng reward para sa mga referral",
+          "3-way na hating kita: platform, ahente, streamer",
+          "Automated tracking at attribution system",
+          "Viral social sharing integration"
+        ]
+      },
+      "followup": {
+        "badge": "Sistema ng Pagpapanatili",
+        "title": "Dedicated Follow-Up System",
+        "desc": "Pagse-segment ng matalinong manlalaro na may nakatuong 1-on-1 na mga tagapamahala ng serbisyo upang i-maximize ang panghabambuhay na halaga ng manlalaro at bawasan ang churn.",
+        "points": [
+          "Pagse-segment ng manlalaro na hinimok ng AI",
+          "1-on-1 na nakatuon sa mga tagapamahala ng serbisyo",
+          "Mga campaign sa pakikipag-ugnayan na nakabatay sa lifecycle",
+          "I-churn ang mga alerto sa hula at pag-iwas",
+          "Mga diskarte sa pag-optimize ng LTV ng manlalaro"
+        ]
+      },
+      "payment": {
+        "badge": "Seguridad ng Pondo",
+        "title": "Global Payment at Fund System",
+        "desc": "24/7 automated clearing na may multi-exchange na suporta. Mabilis na deposito, instant withdrawal, at ganap na transparency sa pananalapi.",
+        "points": [
+          "24/7 automated na deposito at withdrawal",
+          "Multi-exchange rate clearing",
+          "Lokal na pagbabangko sa 10+ bansa",
+          "Suporta sa Crypto at stablecoin",
+          "Real-time na pagsubaybay sa daloy ng pondo"
+        ]
+      }
+    },
+    "comparison": {
+      "heading": "UF9 vs",
+      "headingHighlight": "Mga Legacy na Platform",
+      "subtitle": "Tingnan kung paano nahihigitan ng modelo ng shareholder ng UF9 ang mga tradisyonal na platform na nakabatay sa ahente",
+      "headers": [
+        "Tampok",
+        "Legacy na Platform",
+        "Platform ng UF9"
+      ],
+      "rows": [
+        [
+          "Modelo ng Kita",
+          "Nakapirming komisyon lamang",
+          "Araw-araw na dibidendo + pagbabahagi ng kita"
+        ],
+        [
+          "Settlement",
+          "Buwanang manu-manong settlement",
+          "Real-time na awtomatikong pag-clear"
+        ],
+        [
+          "Transparency",
+          "Malabo, umaasa sa ahente",
+          "Buong real-time na dashboard ng data"
+        ],
+        [
+          "Pagpapanatili ng Manlalaro",
+          "Walang sistematikong follow-up",
+          "1-on-1 na pagpapanatili na hinimok ng AI"
+        ],
+        [
+          "Paglago ng Trapiko",
+          "Self-funded acquisition",
+          "Live na trapiko na pinapagana ng platform"
+        ],
+        [
+          "Seguridad ng Pondo",
+          "May hawak na pondo ang ahente",
+          "Platform escrow + instant payout"
+        ]
+      ]
+    },
+    "dividend": {
+      "title": "Pang-araw-araw na Pagkalkula ng Dividend",
+      "subtitle": "Transparent, awtomatiko, at naayos araw-araw — hindi na naghihintay para sa buwanang mga payout",
+      "formula": "Pang-araw-araw na Dibidendo = Platform Net Profit x Shareholder Ratio",
+      "details": [
+        {
+          "label": "Netong Kita",
+          "desc": "Kabuuang turnover na binawasan ang mga panalo ng manlalaro, mga bonus, at mga gastos sa pagpapatakbo"
+        },
+        {
+          "label": "Ratio ng Shareholder",
+          "desc": "Batay sa investment tier — mas mataas na tier ay nakakakuha ng mas malaking bahagi ng araw-araw na kita"
+        },
+        {
+          "label": "Settlement Cycle",
+          "desc": "Kinakalkula at ipinamahagi bawat 24 na oras, ganap na awtomatiko"
+        }
+      ],
+      "highlight": "Walang nakatagong bayad. Walang manu-manong kalkulasyon. 100% transparent."
+    },
+    "closedLoop": {
+      "title": "Kumpletuhin ang Closed-Loop",
+      "titleHighlight": "Sistema ng Paglago",
+      "subtitle": "Pitong pinagsama-samang mga haligi na nagtutulungan upang lumikha ng self-sustaining profit engine",
+      "centerCount": "7",
+      "centerLabel": "Mga haligi",
+      "pillars": [
+        {
+          "title": "Pagkuha ng Trapiko",
+          "desc": "Live streaming, KOL network, mga social referral"
+        },
+        {
+          "title": "Conversion ng Manlalaro",
+          "desc": "Na-optimize na onboarding, mga bonus na insentibo, disenyo ng UX"
+        },
+        {
+          "title": "Pagpapanatili at Pakikipag-ugnayan",
+          "desc": "Mga 1-on-1 na manager, VIP program, loyalty reward"
+        },
+        {
+          "title": "Monetization",
+          "desc": "Multi-game portfolio, cross-selling, upsell flows"
+        },
+        {
+          "title": "Settlement at Payout",
+          "desc": "Real-time na clearing, araw-araw na mga dibidendo, pamamahagi ng sasakyan"
+        },
+        {
+          "title": "Data at Analytics",
+          "desc": "Mga insight ng manlalaro, mga funnel ng conversion, mga dashboard ng kita"
+        },
+        {
+          "title": "Muling pamumuhunan",
+          "desc": "Profit-driven scaling, pagpapalawak ng merkado, R&D ng produkto"
+        }
+      ]
+    }
+  },
+  "globalPayment": {
+    "heading": "Global",
+    "headingHighlight": "Network ng Pagbabayad",
+    "subtitle": "Walang putol na imprastraktura sa pananalapi sa buong Southeast Asia na may multi-currency at suporta sa crypto",
+    "paymentMethods": "Mga Paraan ng Pagbabayad"
+  },
+  "download": {
+    "badge": "Magsimula",
+    "title1": "Simulan ang Iyong",
+    "title2": "Panalong Paglalakbay",
+    "subtitle": "Sumali sa UF9 at tamasahin ang tunay na karanasan sa online gaming. Magrehistro nang libre, kumita ng maraming bonus sa iyong unang deposito, at simulan ang iyong paglalakbay sa paglalaro nang may kagalakan mula sa unang araw.",
+    "registerFree": "Magrehistro ng Libre",
+    "downloadApp": "I-download ang App",
+    "badges": [
+      "Libreng Pagpaparehistro",
+      "Mga Instant na Deposito",
+      "24/7 na Suporta",
+      "Naka-encrypt ang SSL"
+    ],
+    "phoneTabs": [
+      "Mga puwang",
+      "Mabuhay",
+      "Palakasan",
+      "Mga kard"
+    ],
+    "playNow": "Maglaro Ngayon",
+    "scanToDownload": "I-scan para I-download",
+    "iosAndroid": "iOS at Android",
+    "downloadOn": "I-download sa",
+    "appStore": "App Store",
+    "getItOn": "Kunin ito",
+    "googlePlay": "Google Play"
+  },
+  "faqPage": {
+    "title": "Mga Madalas Itanong",
+    "subtitle": "Maghanap ng mga sagot sa mga karaniwang tanong tungkol sa UF9",
+    "items": [
+      {
+        "q": "Ano ang UF9?",
+        "a": "Ang UF9 ay isang globally licensed online entertainment platform na nag-aalok ng higit sa 1,000 na-curate na laro kabilang ang mga slot, live casino, sportsbook, P2P poker, esports, at higit pa. Nagbibigay kami ng ligtas, patas, at transparent na kapaligiran sa paglalaro."
+      },
+      {
+        "q": "Paano ako gagawa ng account?",
+        "a": "Bisitahin ang aming pahina ng pagpaparehistro, punan ang iyong mga detalye, i-verify ang iyong pagkakakilanlan, at ang iyong account ay magiging handa sa loob ng ilang minuto. Ikaw ay dapat na hindi bababa sa 18 taong gulang upang magparehistro."
+      },
+      {
+        "q": "Anong mga pera ang sinusuportahan?",
+        "a": "Sinusuportahan ng UF9 ang maraming pera kabilang ang mga pangunahing fiat na pera at sikat na cryptocurrencies. Tingnan ang aming platform para sa mga pinakabagong sinusuportahang paraan ng pagbabayad."
+      },
+      {
+        "q": "Paano ako magdedeposito ng mga pondo?",
+        "a": "Mag-log in sa iyong account, mag-navigate sa seksyon ng deposito, piliin ang iyong ginustong paraan ng pagbabayad, at sundin ang mga tagubilin sa screen. Ang mga deposito ay agad na pinoproseso sa karamihan ng mga kaso."
+      },
+      {
+        "q": "Gaano katagal ang mga withdrawal?",
+        "a": "Ang mga oras ng pagproseso ng withdrawal ay nag-iiba ayon sa pamamaraan. Ang mga e-wallet ay karaniwang pinoproseso sa loob ng 24 na oras, habang ang mga bank transfer ay maaaring tumagal ng 1–3 araw ng negosyo."
+      },
+      {
+        "q": "Secure ba ang aking personal na impormasyon?",
+        "a": "Oo. Gumagamit ang UF9 ng standard-industriyang SSL encryption at sumusunod sa mahigpit na mga protocol sa proteksyon ng data upang pangalagaan ang iyong personal at pinansyal na impormasyon."
+      },
+      {
+        "q": "Paano gumagana ang programa ng shareholder?",
+        "a": "Ang aming shareholder program ay nagpapahintulot sa mga kwalipikadong miyembro na lumahok sa modelo ng pagbabahagi ng tubo ng platform. Sumangguni sa aming dokumentasyon ng shareholder para sa buong detalye sa pagiging kwalipikado at mga istruktura ng dibidendo."
+      },
+      {
+        "q": "Sino ang kokontakin para sa suporta?",
+        "a": "Maaari mong maabot ang aming customer service team 24/7 sa pamamagitan ng WhatsApp live chat. I-click ang link ng Live Chat sa footer para makapagsimula."
+      }
+    ]
+  },
+  "termsPage": {
+    "title": "Mga Tuntunin ng Serbisyo",
+    "lastUpdated": "Huling Na-update: Marso 2026",
+    "sections": [
+      {
+        "title": "1. Pagtanggap ng Mga Tuntunin",
+        "content": "Sa pamamagitan ng pag-access o paggamit sa platform ng UF9, sumasang-ayon kang sumailalim sa Mga Tuntunin ng Serbisyo na ito at lahat ng naaangkop na batas at regulasyon. Kung hindi ka sumasang-ayon sa alinman sa mga tuntuning ito, ipinagbabawal kang gamitin o i-access ang platform na ito."
+      },
+      {
+        "title": "2. Pagiging karapat-dapat",
+        "content": "Dapat ay hindi bababa sa 18 taong gulang ka (o ang legal na edad ng pagsusugal sa iyong hurisdiksyon, alinman ang mas mataas) upang magamit ang UF9. Sa paggamit ng aming mga serbisyo, kinakatawan at ginagarantiyahan mo na natutugunan mo ang kinakailangan sa edad na ito at ang online na pagsusugal ay legal sa iyong hurisdiksyon."
+      },
+      {
+        "title": "3. Pagpaparehistro ng Account",
+        "content": "Responsibilidad mong panatilihin ang pagiging kumpidensyal ng iyong mga kredensyal ng account. Ang bawat indibidwal ay maaari lamang magpanatili ng isang account. Inilalaan ng UF9 ang karapatang suspindihin o wakasan ang mga account na lumalabag sa mga tuntuning ito."
+      },
+      {
+        "title": "4. Mga Deposito at Pag-withdraw",
+        "content": "Ang lahat ng mga deposito at withdrawal ay napapailalim sa aming mga patakaran sa pagpoproseso ng pagbabayad. Inilalaan ng UF9 ang karapatang humiling ng pagpapatunay ng pagkakakilanlan bago iproseso ang mga withdrawal. Maaaring malapat ang mga minimum at maximum na limitasyon depende sa iyong paraan ng pagbabayad."
+      },
+      {
+        "title": "5. Fair Play",
+        "content": "Ang UF9 ay nakatuon sa patas na laro. Ang anumang anyo ng pandaraya, sabwatan, o pagsasamantala sa mga kahinaan ng system ay mahigpit na ipinagbabawal at maaaring magresulta sa pagsususpinde ng account, pag-alis ng mga pondo, at legal na aksyon."
+      },
+      {
+        "title": "6. Intelektwal na Ari-arian",
+        "content": "Ang lahat ng nilalaman, trademark, at materyales sa platform ng UF9 ay pag-aari ng UF9 o ng mga tagapaglisensya nito. Hindi ka maaaring magparami, mamahagi, o lumikha ng mga hinangong gawa nang walang tahasang nakasulat na pahintulot."
+      },
+      {
+        "title": "7. Limitasyon ng Pananagutan",
+        "content": "Ang UF9 ay hindi mananagot para sa anumang hindi direkta, hindi sinasadya, espesyal, o kinahinatnang pinsala na nagmumula sa paggamit ng aming platform. Ang aming kabuuang pananagutan ay hindi lalampas sa halagang idineposito sa iyong account."
+      },
+      {
+        "title": "8. Mga pagbabago",
+        "content": "Inilalaan ng UF9 ang karapatang baguhin ang Mga Tuntunin ng Serbisyo na ito anumang oras. Ang patuloy na paggamit ng platform pagkatapos ng mga pagbabago ay bumubuo ng pagtanggap sa mga binagong tuntunin. Aabisuhan ang mga user ng mga makabuluhang pagbabago sa pamamagitan ng email o abiso sa platform."
+      }
+    ]
+  },
+  "privacyPage": {
+    "title": "Patakaran sa Privacy",
+    "lastUpdated": "Huling Na-update: Marso 2026",
+    "sections": [
+      {
+        "title": "1. Impormasyong Kinokolekta Namin",
+        "content": "Kinokolekta namin ang impormasyong ibinibigay mo nang direkta, tulad ng pangalan, email, petsa ng kapanganakan, at mga detalye ng pagbabayad sa panahon ng pagpaparehistro. Kinokolekta din namin ang data ng paggamit, impormasyon ng device, at cookies para mapahusay ang aming mga serbisyo."
+      },
+      {
+        "title": "2. Paano Namin Ginagamit ang Iyong Impormasyon",
+        "content": "Ginagamit ang iyong impormasyon upang ibigay at mapanatili ang aming mga serbisyo, iproseso ang mga transaksyon, i-verify ang iyong pagkakakilanlan, sumunod sa mga legal na obligasyon, maiwasan ang panloloko, at ipaalam ang mahahalagang update tungkol sa iyong account."
+      },
+      {
+        "title": "3. Pagbabahagi ng Data",
+        "content": "Hindi namin ibinebenta ang iyong personal na data. Maaari kaming magbahagi ng impormasyon sa mga pinagkakatiwalaang third-party na service provider (mga tagaproseso ng pagbabayad, mga serbisyo sa pag-verify ng pagkakakilanlan) para lamang mapatakbo ang aming platform. Maaari rin kaming magbunyag ng data kapag kinakailangan ng batas."
+      },
+      {
+        "title": "4. Seguridad ng Data",
+        "content": "Nagpapatupad kami ng pamantayan sa industriya ng mga hakbang sa seguridad kabilang ang SSL encryption, secure na imbakan ng data, at regular na pag-audit sa seguridad upang protektahan ang iyong personal na impormasyon mula sa hindi awtorisadong pag-access."
+      },
+      {
+        "title": "5. Pagpapanatili ng Data",
+        "content": "Pinapanatili namin ang iyong personal na data hangga't aktibo ang iyong account o kung kinakailangan upang magbigay ng mga serbisyo. Pagkatapos ng pagsasara ng account, maaaring mapanatili ang data ayon sa kinakailangan ng mga obligasyon sa regulasyon."
+      },
+      {
+        "title": "6. Ang iyong mga Karapatan",
+        "content": "May karapatan kang i-access, itama, o tanggalin ang iyong personal na data. Maaari ka ring humiling ng data portability o tumutol sa ilang partikular na aktibidad sa pagpoproseso. Makipag-ugnayan sa aming team ng suporta para gamitin ang mga karapatang ito."
+      },
+      {
+        "title": "7. Mga cookies",
+        "content": "Gumagamit kami ng cookies at mga katulad na teknolohiya para mapahusay ang iyong karanasan, suriin ang mga pattern ng paggamit, at maghatid ng personalized na content. Maaari mong pamahalaan ang mga kagustuhan sa cookie sa pamamagitan ng mga setting ng iyong browser."
+      },
+      {
+        "title": "8. Makipag-ugnayan sa Amin",
+        "content": "Para sa anumang mga katanungan o alalahanin na may kaugnayan sa privacy, mangyaring makipag-ugnayan sa aming customer service team sa pamamagitan ng WhatsApp live chat o mag-email sa amin sa support@uf9.com."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Isang pandaigdigang online entertainment platform na nagbibigay ng pinakaligtas at pinakamatamis na kapaligiran sa paglalaro.",
+    "responsible": "Responsableng Paglalaro",
+    "age": "18+",
+    "quickLinks": "Mga Mabilisang Link",
+    "quickLinksItems": [
+      "Mga shareholder",
+      "Lobby ng Laro",
+      "VIP na Programa",
+      "Tungkol sa Amin"
+    ],
+    "gamesTitle": "Mga laro",
+    "gamesItems": [
+      "Mga Larong Slot",
+      "Live na Casino",
+      "Sportsbook",
+      "P2P Poker",
+      "Mga esport",
+      "Mga Larong High-Frequency",
+      "Mga Board at Card Game"
+    ],
+    "support": "Suporta",
+    "supportItems": [
+      "FAQ",
+      "Mga Tuntunin ng Serbisyo",
+      "Patakaran sa Privacy"
+    ],
+    "contactUs": "Makipag-ugnayan sa Amin",
+    "contactItems": [
+      "Live Chat"
+    ],
+    "copyright": "© 2026 UF9. Lahat ng Karapatan ay Nakalaan.",
+    "licensed": "Internationally Licensed",
+    "ssl": "Naka-encrypt ang SSL",
+    "fairPlay": "Fair Play Certified"
+  }
+}

@@ -1,5 +1,8 @@
 import type { Locale } from '@/i18n'
 
+const englishShareholderPdf = { dir: '/pdf/en/uf9-shareholder', pages: 14, file: '/pdf/EN_UF9-shareholder.pdf' }
+const chineseShareholderPdf = { dir: '/pdf/cn/uf9-shareholder', pages: 14, file: '/pdf/CN_UF9-shareholder.pdf' }
+
 export const siteConfig = {
   contact: {
     telegram: 'https://t.me/uf9official',
@@ -24,12 +27,18 @@ export const siteConfig = {
 
   pdf: {
     shareholder: {
-      en: { dir: '/pdf/en/uf9-shareholder', pages: 14, file: '/pdf/EN_UF9-shareholder.pdf' },
-      'zh-CN': { dir: '/pdf/cn/uf9-shareholder', pages: 14, file: '/pdf/CN_UF9-shareholder.pdf' },
-    } satisfies Record<Locale, { dir: string; pages: number; file: string }>,
-    platform: {
-      en: { dir: '/pdf/en/uf9-platform', pages: 14, file: '/pdf/EN_UF9-platform.pdf' },
-      'zh-CN': { dir: '/pdf/cn/uf9-platform', pages: 14, file: '/pdf/CN_UF9-platform.pdf' },
+      'ms-MY': englishShareholderPdf,
+      'en-SG': englishShareholderPdf,
+      'fil-PH': englishShareholderPdf,
+      'ko-KR': englishShareholderPdf,
+      'zh-CN': chineseShareholderPdf,
+      'th-TH': englishShareholderPdf,
+      'id-ID': englishShareholderPdf,
+      'vi-VN': englishShareholderPdf,
+      'hi-IN': englishShareholderPdf,
+      'ja-JP': englishShareholderPdf,
+      'zh-TW': chineseShareholderPdf,
+      'zh-HK': chineseShareholderPdf,
     } satisfies Record<Locale, { dir: string; pages: number; file: string }>,
   },
 } as const

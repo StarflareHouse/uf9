@@ -1,0 +1,619 @@
+{
+  "nav": {
+    "home": "Rumah",
+    "games": "Permainan",
+    "about": "Tentang Kami",
+    "login": "Masuk",
+    "register": "Daftar",
+    "shareholders": "Pemegang Saham",
+    "platform": "Peron",
+    "profitModel": "Model Keuntungan",
+    "dividends": "Dividen",
+    "growth": "Pertumbuhan",
+    "stats": "Statistik",
+    "download": "Unduh"
+  },
+  "shareholderHero": {
+    "badge": "Program Ekuitas Pemegang Saham",
+    "title1": "Bermitra dengan ",
+    "title2": "UF9",
+    "title3": "Bagikan Keuntungan Global",
+    "subtitle": "Melampaui agensi tradisional — berpartisipasi dalam distribusi keuntungan perusahaan nyata dengan dividen otomatis harian. Model pemegang saham generasi mendatang yang dirancang untuk pertumbuhan kekayaan jangka panjang.",
+    "cta": "Menjadi Pemegang Saham",
+    "ctaSecondary": "Pelajari Lebih Lanjut",
+    "tagline": "Pertumbuhan Bersama · Jangkauan Global · Masa Depan Bersama",
+    "dailyDividend": "Dividen Harian",
+    "perDay": "per hari"
+  },
+  "profitModel": {
+    "heading": "Pemegang Saham",
+    "headingHighlight": "Model Keuntungan",
+    "subtitle": "Lihat bagaimana model pemegang saham UF9 secara fundamental mengungguli platform berbasis komisi tradisional",
+    "legacyBadge": "Platform Warisan",
+    "legacyTitle": "Model Agen Tradisional",
+    "uf9Badge": "Pemegang Saham UF9",
+    "uf9Title": "Model Bagi Hasil",
+    "legacy": {
+      "commission": {
+        "title": "Hanya Berbasis Komisi",
+        "desc": "Pendapatan terutama berasal dari komisi promosi, yang pada dasarnya berbasis penjualan."
+      },
+      "fixedRatio": {
+        "title": "Rasio Komisi Tetap",
+        "desc": "Rasio komisi tetap membatasi potensi pertumbuhan."
+      },
+      "noProfit": {
+        "title": "Tidak Ada Partisipasi Keuntungan Perusahaan",
+        "desc": "Agen hanya menerima imbalan promosi, tidak mendapat bagian keuntungan perusahaan."
+      },
+      "incomeCap": {
+        "title": "Batas Pendapatan",
+        "desc": "Pendapatan bergantung pada kemampuan dan sumber daya promosi pribadi, dengan pertumbuhan terbatas."
+      }
+    },
+    "uf9": {
+      "profitSharing": {
+        "title": "Bagi Hasil",
+        "desc": "Berpartisipasi dalam distribusi keuntungan perusahaan secara keseluruhan, bukan hanya pendapatan promosi."
+      },
+      "contributionDividend": {
+        "title": "Dividen Berbasis Kontribusi",
+        "desc": "Semakin banyak Anda berkontribusi, semakin tinggi dividen Anda, yang mencerminkan keadilan dan pertumbuhan."
+      },
+      "netProfit": {
+        "title": "Berpartisipasi dalam Laba Bersih",
+        "desc": "Pemegang saham berbagi laba bersih perusahaan, selaras dengan kepentingan perusahaan."
+      },
+      "growthExpansion": {
+        "title": "Pertumbuhan dengan Ekspansi Perusahaan",
+        "desc": "Pendapatan tumbuh seiring pertumbuhan perusahaan, tidak ada batasan rasio tetap."
+      }
+    }
+  },
+  "dividendFormula": {
+    "heading": "Dividen Harian",
+    "headingHighlight": "Perhitungan",
+    "subtitle": "Transparan, otomatis, dan diselesaikan setiap hari — tidak perlu lagi menunggu pembayaran bulanan",
+    "formula": "(Perputaran Pribadi ÷ Perputaran Perusahaan) × Laba Bersih × Kepemilikan Saham = Dividen Harian",
+    "personalTurnover": "Perputaran Pribadi",
+    "companyTurnover": "Perputaran Perusahaan",
+    "ratio": "Rasio Kontribusi",
+    "netProfit": "Laba Bersih Perusahaan",
+    "shareholding": "% Kepemilikan Saham",
+    "dailyDividend": "Dividen Harian",
+    "yourRatio": "Rasio Anda",
+    "profitShare": "Bagi Hasil",
+    "projectedDaily": "Diproyeksikan Setiap Hari",
+    "calculatorTitle": "Kalkulator Dividen",
+    "calculatorSubtitle": "Sesuaikan bilah geser untuk melihat proyeksi dividen harian Anda",
+    "disclaimer1": "Tidak ada biaya tersembunyi. Tidak ada perhitungan manual. 100% Transparan · Adil · Adil.",
+    "disclaimer2": "Tabel perhitungan hanya untuk tujuan referensi. Persentase bagi hasil pemegang saham ditentukan oleh pemegang saham tingkat atas."
+  },
+  "coreStrengths": {
+    "subtitle": "Kami tidak hanya membangun platform — Kami membangun sistem pertumbuhan laba yang lengkap."
+  },
+  "growthEcosystem": {
+    "heading": "Tiga Arah",
+    "headingHighlight": "Ekosistem Keuntungan",
+    "subtitle": "Platform, streamer, dan agen bekerja sama dalam model pembagian keuntungan yang sinergis yang mendorong pertumbuhan berkelanjutan",
+    "participants": [
+      {
+        "title": "Peron",
+        "desc": "Teknologi, permainan, dan infrastruktur pemukiman"
+      },
+      {
+        "title": "Streamer & KOL",
+        "desc": "Lalu lintas langsung, keterlibatan, dan akuisisi pemain"
+      },
+      {
+        "title": "Agen",
+        "desc": "Membangun jaringan, rujukan, dan pertumbuhan tim"
+      }
+    ],
+    "tagline": "Platform + Streamer + Agen = Ekosistem Keuntungan Tiga Arah",
+    "chart": {
+      "threeWay": "3-ARAH",
+      "ecosystem": "EKOSISTEM"
+    }
+  },
+  "retentionSystem": {
+    "heading": "Retensi Pemain",
+    "headingHighlight": "Sistem LTV",
+    "subtitle": "Maksimalkan nilai seumur hidup pemain dengan segmentasi cerdas dan tindak lanjut khusus — sebuah pendekatan sistematis untuk retensi jangka panjang",
+    "legacyTitle": "Tindak Lanjut Warisan",
+    "uf9Title": "Sistem LTV UF9",
+    "legacy": {
+      "noSegmentation": "Tidak Ada Segmentasi Pemain",
+      "noStrategy": "Tidak Ada Strategi Jangka Panjang",
+      "noRetention": "Tidak Ada Fokus Retensi"
+    },
+    "uf9": {
+      "smartSegmentation": "Segmentasi Pemain Cerdas",
+      "oneOnOne": "Tim Tindak Lanjut 1 lawan 1",
+      "campaignSupport": "Dukungan Kampanye",
+      "userLoyalty": "Aktivitas Lebih Tinggi & Loyalitas Pengguna"
+    }
+  },
+  "closedLoopGrowth": {
+    "systemSummary": "Akuisisi + Insentif + Retensi + Monetisasi + Dividen = Sistem Pertumbuhan Loop Tertutup Lengkap"
+  },
+  "shareholderCTA": {
+    "heading": "Perusahaan",
+    "headingHighlight": "Dokumen",
+    "subtitle": "Unduh dan tinjau dokumentasi pemegang saham dan platform kami",
+    "shareholderPdf": "Program Pemegang Saham",
+    "platformPdf": "Ikhtisar Platform",
+    "downloadPdf": "Unduh PDF",
+    "badges": [
+      "Berlisensi Internasional",
+      "Penyelesaian Harian",
+      "100% Transparan"
+    ]
+  },
+  "hero": {
+    "badge": "Platform Hiburan Premium Global",
+    "title1": "Menang di ",
+    "title2": "UF9",
+    "title3": "Pengalaman Bermain Game Terbaik",
+    "subtitle": "Platform hiburan online global yang didukung oleh teknologi canggih dan sistem penyelesaian cerdas. Lebih dari 1.000 permainan pilihan, dukungan multi-mata uang, dan penarikan secepat kilat.",
+    "cta": "Bergabunglah Sekarang",
+    "ctaSecondary": "Pelajari Lebih Lanjut",
+    "tagline": "Hiburan Global · Game Premium · Pengalaman Terbaik",
+    "verifiedBy": "Diverifikasi oleh"
+  },
+  "stats": {
+    "heading": "Mengapa Memilih",
+    "headingHighlight": "UF9",
+    "subtitle": "Biarkan angka-angka yang berbicara sendiri",
+    "providers": "Penyedia Permainan",
+    "providersCount": "50+",
+    "providersGrowth": "Mitra Teratas",
+    "games": "Game yang Dikurasi",
+    "gamesCount": "1.000+",
+    "gamesGrowth": "Dan Berkembang",
+    "withdrawal": "Penarikan Petir",
+    "withdrawalCount": "3",
+    "withdrawalUnit": "menit",
+    "withdrawalGrowth": "Industri Tercepat",
+    "payment": "Metode Pembayaran",
+    "paymentCount": "150+",
+    "paymentGrowth": "Cakupan Global",
+    "uptime": "Waktu Aktif yang Stabil",
+    "uptimeCount": "99,9%",
+    "uptimeGrowth": "24/7 Selalu Aktif"
+  },
+  "games": {
+    "heading": "Populer",
+    "headingHighlight": "Permainan",
+    "subtitle": "Bermitra dengan penyedia game terkemuka dunia untuk menghadirkan pengalaman bermain game terkaya bagi Anda",
+    "playNow": "Mainkan Sekarang",
+    "gamesAvailable": "permainan yang tersedia",
+    "highlights": {
+      "games": "1000+ Game",
+      "gamesDesc": "Penyedia Teratas",
+      "fast": "Secepat Kilat",
+      "fastDesc": "Nol Latensi",
+      "secure": "Aman & Aman",
+      "secureDesc": "Perlindungan Dana",
+      "service": "Layanan 24/7",
+      "serviceDesc": "Sepanjang Waktu"
+    },
+    "slots": {
+      "title": "Permainan Slot",
+      "badge": "Paling Populer",
+      "description": "Slot RTP tinggi, slot klasik, dan judul slot inovatif — dari slot tiga gulungan klasik hingga slot video terbaru, menghadirkan pengalaman bermain game yang paling kaya.",
+      "bullet1": "500+ game yang dikurasi",
+      "bullet2": "Jackpot progresif hingga jutaan",
+      "bullet3": "Fitur putaran & bonus gratis",
+      "bullet4": "Dioptimalkan dengan sempurna untuk seluler",
+      "count": "500+"
+    },
+    "liveCasino": {
+      "title": "Kasino Langsung",
+      "badge": "Streaming HD",
+      "description": "Baccarat Langsung, Roulette Langsung, Dragon Tiger, Sic Bo — berinteraksi dengan dealer profesional secara real-time. Streaming video HD dengan tampilan multi-sudut.",
+      "bullet1": "Tim dealer profesional",
+      "bullet2": "Bakarat / Roulette / Sic Bo",
+      "bullet3": "Streaming multi-sudut HD",
+      "bullet4": "Meja VIP eksklusif",
+      "count": "50+"
+    },
+    "sportsbook": {
+      "title": "Buku Olahraga",
+      "badge": "Peristiwa Global",
+      "description": "Sepak Bola, Bola Basket, Esports & pasar olahraga yang komprehensif. Pembaruan peluang waktu nyata dengan beragam opsi taruhan.",
+      "bullet1": "Sepak Bola / Bola Basket / Tenis",
+      "bullet2": "Taruhan langsung dalam permainan",
+      "bullet3": "Peluang terbaik di industri",
+      "bullet4": "Cocokkan analisis data",
+      "count": "1000+"
+    },
+    "p2pPoker": {
+      "title": "Poker P2P",
+      "badge": "PVT waktu nyata",
+      "description": "Kompetisi PVT waktu nyata dengan tabel taruhan tinggi, mode turnamen, dan gameplay multi-level. Mendukung likuiditas tinggi dan penyelesaian cepat.",
+      "bullet1": "Texas Hold'em / Blackjack",
+      "bullet2": "Tabel berisiko tinggi",
+      "bullet3": "Modus turnamen",
+      "bullet4": "Sistem penyelesaian cepat",
+      "count": "100+"
+    },
+    "esports": {
+      "title": "Platform Esport",
+      "badge": "Taruhan Langsung",
+      "description": "Turnamen esports tingkat atas dengan sinkronisasi data waktu nyata dan format taruhan yang beragam.",
+      "bullet1": "Liga Legenda / DOTA2",
+      "bullet2": "CS2 / Pemberani",
+      "bullet3": "Streaming acara langsung",
+      "bullet4": "Analisis data profesional",
+      "count": "200+"
+    },
+    "highFrequency": {
+      "title": "Game Frekuensi Tinggi",
+      "badge": "Putar Cepat",
+      "description": "Game bermain cepat yang mudah untuk dimulai dengan beragam opsi gameplay. Putaran cepat, berbagai format, pengalaman ringan dan menarik.",
+      "bullet1": "Taruhan kompetitif serba cepat",
+      "bullet2": "Berbagai format permainan",
+      "bullet3": "Gameplay ringan & menarik",
+      "bullet4": "Penyelesaian cepat",
+      "count": "150+"
+    },
+    "boardGames": {
+      "title": "Permainan Papan & Kartu",
+      "badge": "Zona Strategi",
+      "description": "Pertandingan multipemain real-time dengan sistem peringkat dan format kompetitif. Tabel taruhan tinggi, koin emas & mode poin.",
+      "bullet1": "Mahjong / Lawan Tuan Tanah",
+      "bullet2": "Sistem peringkat",
+      "bullet3": "Format kompetitif",
+      "bullet4": "Pertandingan multipemain waktu nyata",
+      "count": "100+"
+    }
+  },
+  "partner": {
+    "heading": "Bermitra dengan",
+    "headingHighlight": "UF9",
+    "subtitle": "Model pembagian keuntungan pemegang saham generasi berikutnya — tumbuh bersama platform dan menikmati dividen berkelanjutan",
+    "learnMore": "Menjadi Mitra",
+    "coreStrengths": {
+      "title": "Kekuatan Platform Inti",
+      "items": [
+        {
+          "title": "Penyelesaian Multi-Mata Uang",
+          "desc": "Dukungan untuk aset USD, MYR, THB, VND, IDR, dan kripto — penyelesaian global tanpa hambatan"
+        },
+        {
+          "title": "Mesin Penyelesaian Cerdas",
+          "desc": "Kliring otomatis real-time dengan distribusi keuntungan transparan kepada seluruh pemangku kepentingan"
+        },
+        {
+          "title": "Laporan Data Waktu Nyata",
+          "desc": "Dasbor langsung melacak omset, keuntungan, aktivitas pemain, dan tingkat konversi"
+        },
+        {
+          "title": "Arsitektur Stabilitas Tinggi",
+          "desc": "Waktu aktif 99,9%, penyeimbangan beban, perlindungan DDoS — infrastruktur tingkat perusahaan"
+        }
+      ]
+    },
+    "systems": {
+      "traffic": {
+        "badge": "Mesin Pertumbuhan",
+        "title": "Sistem Pertumbuhan Lalu Lintas Langsung",
+        "desc": "Ekosistem lengkap yang terdiri dari live streamer, KOL, dan saluran akuisisi berbasis penghargaan yang terus memasukkan pemain baru ke dalam platform.",
+        "points": [
+          "Streamer profesional & jaringan KOL",
+          "Mekanisme imbalan real-time untuk referensi",
+          "Bagi hasil 3 arah: platform, agen, streamer",
+          "Sistem pelacakan & atribusi otomatis",
+          "Integrasi berbagi sosial viral"
+        ]
+      },
+      "followup": {
+        "badge": "Sistem Retensi",
+        "title": "Sistem Tindak Lanjut Khusus",
+        "desc": "Segmentasi pemain yang cerdas dengan manajer layanan 1-on-1 yang berdedikasi untuk memaksimalkan nilai seumur hidup pemain dan mengurangi churn.",
+        "points": [
+          "Segmentasi pemain berbasis AI",
+          "Manajer layanan khusus 1 lawan 1",
+          "Kampanye keterlibatan berbasis siklus hidup",
+          "Prediksi churn & peringatan pencegahan",
+          "Strategi pengoptimalan LTV pemain"
+        ]
+      },
+      "payment": {
+        "badge": "Keamanan Dana",
+        "title": "Sistem Pembayaran & Dana Global",
+        "desc": "Kliring otomatis 24/7 dengan dukungan multi-bursa. Setoran cepat, penarikan instan, dan transparansi keuangan penuh.",
+        "points": [
+          "Setoran & penarikan otomatis 24/7",
+          "Kliring multi-nilai tukar",
+          "Perbankan lokal di 10+ negara",
+          "Dukungan kripto & stablecoin",
+          "Pemantauan aliran dana secara real-time"
+        ]
+      }
+    },
+    "comparison": {
+      "heading": "UF9 vs",
+      "headingHighlight": "Platform Lama",
+      "subtitle": "Lihat bagaimana model pemegang saham UF9 mengungguli platform berbasis agen tradisional",
+      "headers": [
+        "Fitur",
+        "Platform Warisan",
+        "Peron UF9"
+      ],
+      "rows": [
+        [
+          "Model Keuntungan",
+          "Hanya komisi tetap",
+          "Dividen harian + bagi hasil"
+        ],
+        [
+          "Pemukiman",
+          "Penyelesaian manual bulanan",
+          "Kliring otomatis waktu nyata"
+        ],
+        [
+          "Transparansi",
+          "Buram, bergantung pada agen",
+          "Dasbor data real-time penuh"
+        ],
+        [
+          "Retensi Pemain",
+          "Tidak ada tindak lanjut yang sistematis",
+          "Retensi 1 lawan 1 yang didorong oleh AI"
+        ],
+        [
+          "Pertumbuhan Lalu Lintas",
+          "Akuisisi yang didanai sendiri",
+          "Lalu lintas langsung yang didukung platform"
+        ],
+        [
+          "Keamanan Dana",
+          "Agen memegang dana",
+          "Escrow platform + pembayaran instan"
+        ]
+      ]
+    },
+    "dividend": {
+      "title": "Perhitungan Dividen Harian",
+      "subtitle": "Transparan, otomatis, dan diselesaikan setiap hari — tidak perlu lagi menunggu pembayaran bulanan",
+      "formula": "Dividen Harian = Laba Bersih Platform x Rasio Pemegang Saham",
+      "details": [
+        {
+          "label": "Laba Bersih",
+          "desc": "Total turnover dikurangi kemenangan pemain, bonus, dan biaya operasional"
+        },
+        {
+          "label": "Rasio Pemegang Saham",
+          "desc": "Berdasarkan tingkat investasi — tingkat yang lebih tinggi memperoleh bagian keuntungan harian yang lebih besar"
+        },
+        {
+          "label": "Siklus Penyelesaian",
+          "desc": "Dihitung dan didistribusikan setiap 24 jam, sepenuhnya otomatis"
+        }
+      ],
+      "highlight": "Tidak ada biaya tersembunyi. Tidak ada perhitungan manual. 100% transparan."
+    },
+    "closedLoop": {
+      "title": "Selesaikan Loop Tertutup",
+      "titleHighlight": "Sistem Pertumbuhan",
+      "subtitle": "Tujuh pilar terintegrasi bekerja sama untuk menciptakan mesin keuntungan yang mandiri",
+      "centerCount": "7",
+      "centerLabel": "Pilar",
+      "pillars": [
+        {
+          "title": "Akuisisi Lalu Lintas",
+          "desc": "Streaming langsung, jaringan KOL, rujukan sosial"
+        },
+        {
+          "title": "Konversi Pemain",
+          "desc": "Orientasi yang dioptimalkan, insentif bonus, desain UX"
+        },
+        {
+          "title": "Retensi & Keterlibatan",
+          "desc": "Manajer 1 lawan 1, program VIP, penghargaan loyalitas"
+        },
+        {
+          "title": "Monetisasi",
+          "desc": "Portofolio multi-game, penjualan silang, aliran penjualan lebih tinggi"
+        },
+        {
+          "title": "Penyelesaian & Pembayaran",
+          "desc": "Kliring waktu nyata, dividen harian, distribusi otomatis"
+        },
+        {
+          "title": "Data & Analisis",
+          "desc": "Wawasan pemain, saluran konversi, dasbor keuntungan"
+        },
+        {
+          "title": "Investasi kembali",
+          "desc": "Penskalaan yang didorong oleh keuntungan, perluasan pasar, penelitian dan pengembangan produk"
+        }
+      ]
+    }
+  },
+  "globalPayment": {
+    "heading": "Global",
+    "headingHighlight": "Jaringan Pembayaran",
+    "subtitle": "Infrastruktur keuangan yang lancar di seluruh Asia Tenggara dengan dukungan multi-mata uang dan kripto",
+    "paymentMethods": "Metode Pembayaran"
+  },
+  "download": {
+    "badge": "Memulai",
+    "title1": "Mulai Anda",
+    "title2": "Perjalanan Kemenangan",
+    "subtitle": "Bergabunglah dengan UF9 dan nikmati pengalaman bermain online terbaik. Daftar gratis, dapatkan bonus besar pada setoran pertama Anda, dan mulailah perjalanan bermain game Anda dengan kegembiraan sejak hari pertama.",
+    "registerFree": "Daftar Gratis",
+    "downloadApp": "Unduh Aplikasi",
+    "badges": [
+      "Pendaftaran Gratis",
+      "Setoran Instan",
+      "Dukungan 24/7",
+      "SSL Terenkripsi"
+    ],
+    "phoneTabs": [
+      "slot",
+      "Hidup",
+      "Olahraga",
+      "Kartu-kartu"
+    ],
+    "playNow": "Mainkan Sekarang",
+    "scanToDownload": "Pindai untuk Mengunduh",
+    "iosAndroid": "iOS & Android",
+    "downloadOn": "Unduh aktif",
+    "appStore": "Toko Aplikasi",
+    "getItOn": "Pakailah",
+    "googlePlay": "Google Bermain"
+  },
+  "faqPage": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "subtitle": "Temukan jawaban atas pertanyaan umum tentang UF9",
+    "items": [
+      {
+        "q": "Apa itu UF9?",
+        "a": "UF9 adalah platform hiburan online berlisensi global yang menawarkan lebih dari 1.000 permainan pilihan termasuk slot, kasino live, sportsbook, poker P2P, esports, dan banyak lagi. Kami menyediakan lingkungan permainan yang aman, adil, dan transparan."
+      },
+      {
+        "q": "Bagaimana cara membuat akun?",
+        "a": "Kunjungi halaman pendaftaran kami, isi detail Anda, verifikasi identitas Anda, dan akun Anda akan siap dalam beberapa menit. Anda harus berusia minimal 18 tahun untuk mendaftar."
+      },
+      {
+        "q": "Mata uang apa yang didukung?",
+        "a": "UF9 mendukung banyak mata uang termasuk mata uang fiat utama dan mata uang kripto populer. Periksa platform kami untuk metode pembayaran terbaru yang didukung."
+      },
+      {
+        "q": "Bagaimana cara saya menyetor dana?",
+        "a": "Masuk ke akun Anda, navigasikan ke bagian deposit, pilih metode pembayaran pilihan Anda, dan ikuti petunjuk di layar. Deposit diproses secara instan dalam banyak kasus."
+      },
+      {
+        "q": "Berapa lama waktu yang dibutuhkan untuk penarikan?",
+        "a": "Waktu pemrosesan penarikan bervariasi berdasarkan metode. Dompet elektronik biasanya diproses dalam waktu 24 jam, sedangkan transfer bank mungkin memerlukan waktu 1–3 hari kerja."
+      },
+      {
+        "q": "Apakah informasi pribadi saya aman?",
+        "a": "Ya. UF9 menggunakan enkripsi SSL standar industri dan mengikuti protokol perlindungan data yang ketat untuk melindungi informasi pribadi dan keuangan Anda."
+      },
+      {
+        "q": "Bagaimana cara kerja program pemegang saham?",
+        "a": "Program pemegang saham kami memungkinkan anggota yang memenuhi syarat untuk berpartisipasi dalam model pembagian keuntungan platform. Lihat dokumentasi pemegang saham kami untuk rincian lengkap tentang kelayakan dan struktur dividen."
+      },
+      {
+        "q": "Siapa yang harus saya hubungi untuk mendapatkan dukungan?",
+        "a": "Anda dapat menghubungi tim layanan pelanggan kami 24/7 melalui live chat WhatsApp. Klik tautan Obrolan Langsung di footer untuk memulai."
+      }
+    ]
+  },
+  "termsPage": {
+    "title": "Ketentuan Layanan",
+    "lastUpdated": "Terakhir Diperbarui: Maret 2026",
+    "sections": [
+      {
+        "title": "1. Penerimaan Persyaratan",
+        "content": "Dengan mengakses atau menggunakan platform UF9, Anda setuju untuk terikat pada Ketentuan Layanan ini dan seluruh peraturan perundang-undangan yang berlaku. Jika Anda tidak setuju dengan salah satu ketentuan ini, Anda dilarang menggunakan atau mengakses platform ini."
+      },
+      {
+        "title": "2. Kelayakan",
+        "content": "Anda harus berusia minimal 18 tahun (atau usia legal untuk berjudi di yurisdiksi Anda, mana saja yang lebih tinggi) untuk menggunakan UF9. Dengan menggunakan layanan kami, Anda menyatakan dan menjamin bahwa Anda memenuhi persyaratan usia ini dan bahwa perjudian online legal di wilayah hukum Anda."
+      },
+      {
+        "title": "3. Pendaftaran Akun",
+        "content": "Anda bertanggung jawab untuk menjaga kerahasiaan kredensial akun Anda. Setiap individu hanya boleh memiliki satu akun. UF9 berhak untuk menangguhkan atau menghentikan akun yang melanggar ketentuan ini."
+      },
+      {
+        "title": "4. Setoran dan Penarikan",
+        "content": "Semua penyetoran dan penarikan tunduk pada kebijakan pemrosesan pembayaran kami. UF9 berhak meminta verifikasi identitas sebelum memproses penarikan. Batas minimum dan maksimum mungkin berlaku tergantung pada metode pembayaran Anda."
+      },
+      {
+        "title": "5. Permainan Adil",
+        "content": "UF9 berkomitmen pada permainan yang adil. Segala bentuk kecurangan, kolusi, atau eksploitasi kerentanan sistem sangat dilarang dan dapat mengakibatkan penangguhan akun, penyitaan dana, dan tindakan hukum."
+      },
+      {
+        "title": "6. Kekayaan Intelektual",
+        "content": "Semua konten, merek dagang, dan materi pada platform UF9 adalah milik UF9 atau pemberi lisensinya. Anda tidak boleh mereproduksi, mendistribusikan, atau membuat karya turunan tanpa izin tertulis yang jelas."
+      },
+      {
+        "title": "7. Batasan Tanggung Jawab",
+        "content": "UF9 tidak bertanggung jawab atas segala kerugian tidak langsung, insidental, khusus, atau konsekuensial yang timbul dari penggunaan platform kami. Total tanggung jawab kami tidak akan melebihi jumlah yang disetorkan ke akun Anda."
+      },
+      {
+        "title": "8. Modifikasi",
+        "content": "UF9 berhak mengubah Ketentuan Layanan ini kapan saja. Penggunaan platform yang berkelanjutan setelah perubahan merupakan penerimaan terhadap ketentuan yang diubah. Pengguna akan diberitahu tentang perubahan signifikan melalui email atau pemberitahuan platform."
+      }
+    ]
+  },
+  "privacyPage": {
+    "title": "Kebijakan Privasi",
+    "lastUpdated": "Terakhir Diperbarui: Maret 2026",
+    "sections": [
+      {
+        "title": "1. Informasi yang Kami Kumpulkan",
+        "content": "Kami mengumpulkan informasi yang Anda berikan secara langsung, seperti nama, email, tanggal lahir, dan rincian pembayaran saat pendaftaran. Kami juga mengumpulkan data penggunaan, informasi perangkat, dan cookie untuk meningkatkan layanan kami."
+      },
+      {
+        "title": "2. Bagaimana Kami Menggunakan Informasi Anda",
+        "content": "Informasi Anda digunakan untuk menyediakan dan memelihara layanan kami, memproses transaksi, memverifikasi identitas Anda, mematuhi kewajiban hukum, mencegah penipuan, dan mengkomunikasikan pembaruan penting tentang akun Anda."
+      },
+      {
+        "title": "3. Berbagi Data",
+        "content": "Kami tidak menjual data pribadi Anda. Kami dapat berbagi informasi dengan penyedia layanan pihak ketiga yang tepercaya (pemroses pembayaran, layanan verifikasi identitas) semata-mata untuk mengoperasikan platform kami. Kami juga dapat mengungkapkan data bila diwajibkan oleh hukum."
+      },
+      {
+        "title": "4. Keamanan Data",
+        "content": "Kami menerapkan langkah-langkah keamanan standar industri termasuk enkripsi SSL, penyimpanan data yang aman, dan audit keamanan rutin untuk melindungi informasi pribadi Anda dari akses tidak sah."
+      },
+      {
+        "title": "5. Retensi Data",
+        "content": "Kami menyimpan data pribadi Anda selama akun Anda aktif atau selama diperlukan untuk menyediakan layanan. Setelah penutupan akun, data dapat disimpan sebagaimana diwajibkan oleh kewajiban peraturan."
+      },
+      {
+        "title": "6. Hak Anda",
+        "content": "Anda berhak mengakses, memperbaiki, atau menghapus data pribadi Anda. Anda juga dapat meminta portabilitas data atau menolak aktivitas pemrosesan tertentu. Hubungi tim dukungan kami untuk menggunakan hak ini."
+      },
+      {
+        "title": "7. Kue",
+        "content": "Kami menggunakan cookie dan teknologi serupa untuk meningkatkan pengalaman Anda, menganalisis pola penggunaan, dan memberikan konten yang dipersonalisasi. Anda dapat mengelola preferensi cookie melalui pengaturan browser Anda."
+      },
+      {
+        "title": "8. Hubungi Kami",
+        "content": "Untuk pertanyaan atau permasalahan apa pun terkait privasi, silakan hubungi tim layanan pelanggan kami melalui obrolan langsung WhatsApp atau kirim email kepada kami di support@uf9.com."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Platform hiburan online global yang menyediakan lingkungan permainan paling aman dan adil.",
+    "responsible": "Permainan yang Bertanggung Jawab",
+    "age": "18+",
+    "quickLinks": "Tautan Cepat",
+    "quickLinksItems": [
+      "Pemegang Saham",
+      "Lobi Permainan",
+      "Program VIP",
+      "Tentang Kami"
+    ],
+    "gamesTitle": "Permainan",
+    "gamesItems": [
+      "Permainan Slot",
+      "Kasino Langsung",
+      "Buku Olahraga",
+      "Poker P2P",
+      "olahraga",
+      "Game Frekuensi Tinggi",
+      "Permainan Papan & Kartu"
+    ],
+    "support": "Dukungan",
+    "supportItems": [
+      "Pertanyaan Umum",
+      "Ketentuan Layanan",
+      "Kebijakan Privasi"
+    ],
+    "contactUs": "Hubungi Kami",
+    "contactItems": [
+      "Obrolan Langsung"
+    ],
+    "copyright": "© 2026 UF9. Semua Hak Dilindungi Undang-undang.",
+    "licensed": "Berlisensi Internasional",
+    "ssl": "SSL Terenkripsi",
+    "fairPlay": "Bersertifikat Fair Play"
+  }
+}

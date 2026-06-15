@@ -97,9 +97,18 @@
     "headingHighlight": "Profit Ecosystem",
     "subtitle": "Platform, streamers, and agents work together in a synergistic profit-sharing model that drives continuous growth",
     "participants": [
-      { "title": "Platform", "desc": "Technology, games, and settlement infrastructure" },
-      { "title": "Streamers & KOLs", "desc": "Live traffic, engagement, and player acquisition" },
-      { "title": "Agents", "desc": "Network building, referrals, and team growth" }
+      {
+        "title": "Platform",
+        "desc": "Technology, games, and settlement infrastructure"
+      },
+      {
+        "title": "Streamers & KOLs",
+        "desc": "Live traffic, engagement, and player acquisition"
+      },
+      {
+        "title": "Agents",
+        "desc": "Network building, referrals, and team growth"
+      }
     ],
     "tagline": "Platform + Streamer + Agent = Three-Way Profit Ecosystem",
     "chart": {
@@ -135,7 +144,11 @@
     "shareholderPdf": "Shareholder Program",
     "platformPdf": "Platform Overview",
     "downloadPdf": "Download PDF",
-    "badges": ["Internationally Licensed", "Daily Settlement", "100% Transparent"]
+    "badges": [
+      "Internationally Licensed",
+      "Daily Settlement",
+      "100% Transparent"
+    ]
   },
   "hero": {
     "badge": "Global Premium Entertainment Platform",
@@ -264,10 +277,22 @@
     "coreStrengths": {
       "title": "Core Platform Strengths",
       "items": [
-        { "title": "Multi-Currency Settlement", "desc": "Support for USD, MYR, THB, VND, IDR and crypto assets — seamless global settlement" },
-        { "title": "Intelligent Settlement Engine", "desc": "Real-time automated clearing with transparent profit distribution to all stakeholders" },
-        { "title": "Real-Time Data Reports", "desc": "Live dashboards tracking turnover, profit, player activity, and conversion rates" },
-        { "title": "High-Stability Architecture", "desc": "99.9% uptime, load balancing, DDoS protection — enterprise-grade infrastructure" }
+        {
+          "title": "Multi-Currency Settlement",
+          "desc": "Support for USD, MYR, THB, VND, IDR and crypto assets — seamless global settlement"
+        },
+        {
+          "title": "Intelligent Settlement Engine",
+          "desc": "Real-time automated clearing with transparent profit distribution to all stakeholders"
+        },
+        {
+          "title": "Real-Time Data Reports",
+          "desc": "Live dashboards tracking turnover, profit, player activity, and conversion rates"
+        },
+        {
+          "title": "High-Stability Architecture",
+          "desc": "99.9% uptime, load balancing, DDoS protection — enterprise-grade infrastructure"
+        }
       ]
     },
     "systems": {
@@ -312,14 +337,42 @@
       "heading": "UF9 vs",
       "headingHighlight": "Legacy Platforms",
       "subtitle": "See how the UF9 shareholder model outperforms traditional agent-based platforms",
-      "headers": ["Feature", "Legacy Platform", "UF9 Platform"],
+      "headers": [
+        "Feature",
+        "Legacy Platform",
+        "UF9 Platform"
+      ],
       "rows": [
-        ["Profit Model", "Fixed commission only", "Daily dividend + profit sharing"],
-        ["Settlement", "Monthly manual settlement", "Real-time automated clearing"],
-        ["Transparency", "Opaque, agent-dependent", "Full real-time data dashboard"],
-        ["Player Retention", "No systematic follow-up", "AI-driven 1-on-1 retention"],
-        ["Traffic Growth", "Self-funded acquisition", "Platform-powered live traffic"],
-        ["Fund Security", "Agent holds funds", "Platform escrow + instant payout"]
+        [
+          "Profit Model",
+          "Fixed commission only",
+          "Daily dividend + profit sharing"
+        ],
+        [
+          "Settlement",
+          "Monthly manual settlement",
+          "Real-time automated clearing"
+        ],
+        [
+          "Transparency",
+          "Opaque, agent-dependent",
+          "Full real-time data dashboard"
+        ],
+        [
+          "Player Retention",
+          "No systematic follow-up",
+          "AI-driven 1-on-1 retention"
+        ],
+        [
+          "Traffic Growth",
+          "Self-funded acquisition",
+          "Platform-powered live traffic"
+        ],
+        [
+          "Fund Security",
+          "Agent holds funds",
+          "Platform escrow + instant payout"
+        ]
       ]
     },
     "dividend": {
@@ -327,9 +380,18 @@
       "subtitle": "Transparent, automated, and settled daily — no more waiting for monthly payouts",
       "formula": "Daily Dividend = Platform Net Profit x Shareholder Ratio",
       "details": [
-        { "label": "Net Profit", "desc": "Total turnover minus player winnings, bonuses, and operational costs" },
-        { "label": "Shareholder Ratio", "desc": "Based on investment tier — higher tiers earn a larger share of daily profits" },
-        { "label": "Settlement Cycle", "desc": "Calculated and distributed every 24 hours, fully automated" }
+        {
+          "label": "Net Profit",
+          "desc": "Total turnover minus player winnings, bonuses, and operational costs"
+        },
+        {
+          "label": "Shareholder Ratio",
+          "desc": "Based on investment tier — higher tiers earn a larger share of daily profits"
+        },
+        {
+          "label": "Settlement Cycle",
+          "desc": "Calculated and distributed every 24 hours, fully automated"
+        }
       ],
       "highlight": "No hidden fees. No manual calculations. 100% transparent."
     },
@@ -340,13 +402,34 @@
       "centerCount": "7",
       "centerLabel": "Pillars",
       "pillars": [
-        { "title": "Traffic Acquisition", "desc": "Live streaming, KOL networks, social referrals" },
-        { "title": "Player Conversion", "desc": "Optimized onboarding, bonus incentives, UX design" },
-        { "title": "Retention & Engagement", "desc": "1-on-1 managers, VIP programs, loyalty rewards" },
-        { "title": "Monetization", "desc": "Multi-game portfolio, cross-selling, upsell flows" },
-        { "title": "Settlement & Payout", "desc": "Real-time clearing, daily dividends, auto distribution" },
-        { "title": "Data & Analytics", "desc": "Player insights, conversion funnels, profit dashboards" },
-        { "title": "Reinvestment", "desc": "Profit-driven scaling, market expansion, product R&D" }
+        {
+          "title": "Traffic Acquisition",
+          "desc": "Live streaming, KOL networks, social referrals"
+        },
+        {
+          "title": "Player Conversion",
+          "desc": "Optimized onboarding, bonus incentives, UX design"
+        },
+        {
+          "title": "Retention & Engagement",
+          "desc": "1-on-1 managers, VIP programs, loyalty rewards"
+        },
+        {
+          "title": "Monetization",
+          "desc": "Multi-game portfolio, cross-selling, upsell flows"
+        },
+        {
+          "title": "Settlement & Payout",
+          "desc": "Real-time clearing, daily dividends, auto distribution"
+        },
+        {
+          "title": "Data & Analytics",
+          "desc": "Player insights, conversion funnels, profit dashboards"
+        },
+        {
+          "title": "Reinvestment",
+          "desc": "Profit-driven scaling, market expansion, product R&D"
+        }
       ]
     }
   },
@@ -363,8 +446,18 @@
     "subtitle": "Join UF9 and enjoy the ultimate online gaming experience. Register for free, earn generous bonuses on your first deposit, and start your gaming journey with excitement from day one.",
     "registerFree": "Register Free",
     "downloadApp": "Download App",
-    "badges": ["Free Registration", "Instant Deposits", "24/7 Support", "SSL Encrypted"],
-    "phoneTabs": ["Slots", "Live", "Sports", "Cards"],
+    "badges": [
+      "Free Registration",
+      "Instant Deposits",
+      "24/7 Support",
+      "SSL Encrypted"
+    ],
+    "phoneTabs": [
+      "Slots",
+      "Live",
+      "Sports",
+      "Cards"
+    ],
     "playNow": "Play Now",
     "scanToDownload": "Scan to Download",
     "iosAndroid": "iOS & Android",
@@ -492,13 +585,32 @@
     "responsible": "Responsible Gaming",
     "age": "18+",
     "quickLinks": "Quick Links",
-    "quickLinksItems": ["Shareholders", "Platform", "Game Lobby", "VIP Program", "About Us"],
+    "quickLinksItems": [
+      "Shareholders",
+      "Game Lobby",
+      "VIP Program",
+      "About Us"
+    ],
     "gamesTitle": "Games",
-    "gamesItems": ["Slot Games", "Live Casino", "Sportsbook", "P2P Poker", "Esports", "High-Frequency Games", "Board & Card Games"],
+    "gamesItems": [
+      "Slot Games",
+      "Live Casino",
+      "Sportsbook",
+      "P2P Poker",
+      "Esports",
+      "High-Frequency Games",
+      "Board & Card Games"
+    ],
     "support": "Support",
-    "supportItems": ["FAQ", "Terms of Service", "Privacy Policy"],
+    "supportItems": [
+      "FAQ",
+      "Terms of Service",
+      "Privacy Policy"
+    ],
     "contactUs": "Contact Us",
-    "contactItems": ["Live Chat"],
+    "contactItems": [
+      "Live Chat"
+    ],
     "copyright": "© 2026 UF9. All Rights Reserved.",
     "licensed": "Internationally Licensed",
     "ssl": "SSL Encrypted",

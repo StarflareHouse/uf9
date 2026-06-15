@@ -8,7 +8,6 @@ import { Navbar } from '@/components/layout/Navbar'
 import { Footer } from '@/components/layout/Footer'
 import { ScrollToTop } from '@/components/ui/ScrollToTop'
 import { ShareholdersPage } from '@/pages/ShareholdersPage'
-import { PlatformPage } from '@/pages/PlatformPage'
 import { FaqPage } from '@/pages/FaqPage'
 import { TermsPage } from '@/pages/TermsPage'
 import { PrivacyPage } from '@/pages/PrivacyPage'
@@ -35,7 +34,7 @@ function App() {
               <Routes location={location} key={location.pathname}>
                 <Route path="/" element={<Navigate to="/shareholders" replace />} />
                 <Route path="/shareholders" element={<ShareholdersPage />} />
-                <Route path="/platform" element={<PlatformPage />} />
+                <Route path="/platform" element={<Navigate to="/shareholders" replace />} />
                 <Route path="/faq" element={<FaqPage />} />
                 <Route path="/terms" element={<TermsPage />} />
                 <Route path="/privacy" element={<PrivacyPage />} />
