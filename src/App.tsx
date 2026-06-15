@@ -20,19 +20,24 @@ function ScrollReset() {
   return null
 }
 
+function EmptyHomePage() {
+  return null
+}
+
 function App() {
   const location = useLocation()
+  const isHomeRoute = location.pathname === '/'
 
   return (
     <LanguageProvider>
       <ThemeProvider>
         <div className="min-h-screen bg-background text-foreground transition-colors duration-300">
           <ScrollReset />
-          <Navbar />
+          {isHomeRoute ? null : <Navbar />}
           <main>
             <AnimatePresence mode="wait">
               <Routes location={location} key={location.pathname}>
-                <Route path="/" element={<Navigate to="/shareholders" replace />} />
+                <Route path="/" element={<EmptyHomePage />} />
                 <Route path="/shareholders" element={<ShareholdersPage />} />
                 <Route path="/platform" element={<Navigate to="/shareholders" replace />} />
                 <Route path="/faq" element={<FaqPage />} />
@@ -41,8 +46,8 @@ function App() {
               </Routes>
             </AnimatePresence>
           </main>
-          <Footer />
-          <ScrollToTop />
+          {isHomeRoute ? null : <Footer />}
+          {isHomeRoute ? null : <ScrollToTop />}
         </div>
       </ThemeProvider>
     </LanguageProvider>

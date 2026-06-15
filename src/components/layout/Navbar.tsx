@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react'
 import { createPortal } from 'react-dom'
 import { Menu, X, TrendingUp } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { useNavigate } from 'react-router-dom'
 import { shareholderNavLinks } from '@/constants/navigation'
 import { AnimatedThemeToggler } from '@/components/ui/animated-theme-toggler'
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher'
@@ -11,7 +10,6 @@ import { useTranslation } from '@/i18n'
 export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false)
   const { t } = useTranslation()
-  const navigate = useNavigate()
 
   // Lock body scroll when sidebar is open
   useEffect(() => {
@@ -28,7 +26,7 @@ export function Navbar() {
           <div className="flex items-center justify-center gap-4">
             {/* Desktop Pill Navbar */}
             <div className="hidden lg:flex items-center gap-5 px-5 py-2.5 rounded-full bg-background-secondary/80 backdrop-blur-lg border border-border-subtle shadow-lg shadow-shadow">
-              <a href="/" onClick={(e) => { e.preventDefault(); navigate('/shareholders') }} className="shrink-0">
+              <a href="/" className="shrink-0">
                 <motion.div
                   whileHover={{ scale: 1.05 }}
                   transition={{ type: 'spring', stiffness: 400, damping: 10 }}
@@ -64,7 +62,7 @@ export function Navbar() {
             {/* Mobile Header */}
             <div className="flex lg:hidden w-full items-center justify-between">
               <div className="flex items-center gap-3 px-4 py-2.5 rounded-full bg-background-secondary/80 backdrop-blur-lg border border-border-subtle shadow-lg shadow-shadow">
-                <a href="/" onClick={(e) => { e.preventDefault(); navigate('/shareholders') }} className="shrink-0">
+                <a href="/" className="shrink-0">
                   <img src="/logo.png" alt="UF9" className="h-7 w-auto" />
                 </a>
                 <button
